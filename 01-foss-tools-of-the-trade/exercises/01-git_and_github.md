@@ -1,5 +1,5 @@
 ## Data processing and handling techniques for the purposes of efficient biodiversity data management and reporting
-### Lab 2 - Getting to know Git and Github
+### Exercise 2 - Getting to know Git and Github
 #### Objective - Explore and understand Git and Github workflow
 
 ---
