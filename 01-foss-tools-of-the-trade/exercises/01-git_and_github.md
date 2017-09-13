@@ -25,7 +25,7 @@ For this task, workshop project is already created on GitHub so you will use sec
 But, before cloning repository we need to install Git software. Here we also have two approaches:
 
 * for users that are already familiar with Git, recommended approach would be to install command line version which is available from [http://git-scm.com/](http://git-scm.com/). 
-* for beginners, the second approach is recommended, that is to install Git as a part of GitHub desktop software [https://desktop.github.com](https://desktop.github.com).
+* for beginners, the second approach is recommended, that is to install Git as a part of GitHub desktop software [https://desktop.github.com](https://desktop.github.com) which is a GUI version of Git software.
 
 **Steps to do:**
 1. Go to [https://desktop.github.com](https://desktop.github.com) and install GitHub desktop for your operating system.
@@ -40,6 +40,12 @@ Now when you finished installing all of the required software, go to the reposit
 There is a lot of information on this page; some of it you'll find useful, and some of it you can safely ignore as a non-programmer.
 
 **Steps to do:**
+1. Find out the full name of the repo.
+2. Find out how many commits have been made.
+3. Find out how many people have contributed to the project.
+4. Find out what happens if you click on a file in a file list?
+5. Find out if any issues have been issued for the repo?
+
+**Task 3: Synchronize the workshop repo with new changes.
 
 
-**3. Conclusion**
