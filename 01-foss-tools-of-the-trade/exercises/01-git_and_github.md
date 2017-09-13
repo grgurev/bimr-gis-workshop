@@ -1,6 +1,6 @@
 ## Data processing and handling techniques for the purposes of efficient biodiversity data management and reporting
 ### Lab 2 - Getting to know Git and Github
-#### Objective - explore and understand Git and Github workflow
+#### Objective - Explore and understand Git and Github workflow
 
 ---
 
@@ -23,6 +23,8 @@ But, before cloning repository we need to install Git software. Here we also hav
 4. Configure Git settings.
 5. Clone the workshop repository from [https://github.com/grgurev/bimr-gis-workshop.git](https://github.com/grgurev/bimr-gis-workshop.git).
 
+---
+
 **Task 2: Get familiar with GitHub.**
 Now when you finished installing all of the required software, go to the repository web address at [https://github.com/grgurev/bimr-gis-workshop](https://github.com/grgurev/bimr-gis-workshop) and check out our workshop repo. All GitHub repositories live at github.com/[[username]]/[[repo-name]].
 
@@ -35,6 +37,8 @@ There is a lot of information on this page; some of it you'll find useful, and s
 4. Find out what happens if you click on a file in a file list?
 5. Find out if any issues have been issued for the repo?
 
+---
+
 **Task 3: Synchronize the workshop repo with new changes.**
 Now we will try to fetch and merge (pull) changes from the server. While you
 were exploring GitHub web pages some minor changes are made to files in the repo. You need to fetch and merge the changes from the server and examine what was changed.
@@ -43,6 +47,8 @@ were exploring GitHub web pages some minor changes are made to files in the repo
 1. Fetch the changes from the server by clicking "Fetch origin"
 2. Click on the changed file(s) and examine the changes made.
 3. Try to find out who made the changes.
+
+---
 
 **Optional Task: Make changes to some files and push your changes to the server.**
 For now you only fetched the changes from the server and merged them to your local repository. The second, equally important task in any distributed work or project is to be able to push your changes to the server for other colaborators to be visible.
