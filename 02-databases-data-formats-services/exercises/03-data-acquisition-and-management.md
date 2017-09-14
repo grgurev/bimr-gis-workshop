@@ -1,6 +1,8 @@
 ## Data processing and handling techniques for the purposes of efficient biodiversity data management and reporting
-### Exercise 2 - Data acquisition and management
+### Exercise 3 - Data acquisition and management
 #### Objective - Getting familiar with data acquisition and storing it in the project database
+Document version: 2017-09-14
+Document author: Petra Štrbenac; Marin Grgurev, PhD
 
 ---
 
@@ -17,6 +19,7 @@
 ---
 
 **Task 4: Create SpatialLite database using QGIS.**
+Now that you have taken necessary steps to prepare your data, you will create new empty SpatialLite database in which you're going to import your data.
 
 ---
 
