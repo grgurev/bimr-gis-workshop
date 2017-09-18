@@ -1,18 +1,18 @@
 ## Data processing and handling techniques for the purposes of efficient biodiversity data management and reporting
-### Exercise 3 - Data acquisition and management
-#### Objective - Getting familiar with data acquisition and storing it in the project database
+### Exercise 3 - Spatial databases
+#### Objective - Getting familiar with spatial databases.
 Document version: 2017-09-14
 Document author: Petra Štrbenac; Marin Grgurev, PhD
 
 ---
 
 **Task 1: Create SpatialLite database using QGIS.**
-Now that you have taken necessary steps to prepare your data, you will create new empty SpatialLite database in which you're going to import your data by using browser panel.
+Now that you have taken necessary steps to prepare your data, you will create new empty SpatialLite database.
 
 **Steps to do:**
 1. Right click on the SpatialLite entry in the browser tree and create new database.
-2. Specify where on the file system you want to store the file and name it qgis-sl.db.
-3. Right click on the SpatialLite entry and select New Connection item
+2. Specify where on the file system you want to store the file and name it mydatabase.sqlite.
+3. Right click on the SpatialLite entry and select New Connection item.
 
 ---
 
@@ -35,7 +35,7 @@ You can right click on the table and view its properties as we did in the previo
 To import external Shapefile to your SpatiaLite database we will use DB Manager. To work with Spatial Databases in QGIS you will use export and import data commands to/from database.
 
 1. Click the Import layer/file button on the toolbar in the DB Manager dialog.
-2. Select the shapefile located in \data\BiogeoRegions2016.shp as the input dataset.
+2. Select the shapefile located in data\BiogeoRegions2016.shp as the input dataset.
 3. Click the Update Options button to pre-fill some of the form values.
 4. Make sure that the Create new table option is selected
 5. Enable the checkbox to Create Spatial Index
