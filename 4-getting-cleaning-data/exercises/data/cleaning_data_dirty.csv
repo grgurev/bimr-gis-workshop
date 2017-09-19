@@ -1,0 +1,63 @@
+gbifid	Kingdom	family	scientific name	decimall	decimallongitude	coordinateuncertaintyinmeters	eventdate	day	month	year
+1579761910	Plantae	Sapindaceae	Acer hyrcanum Fisch. & C. A. Mey.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1579760519	Plantae	Sapindaceae	Acer hyrcanum Fisch. & C. A. Mey.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1579762415	Plantae	Sapindaceae	Acer monspessulanum L.	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1579757822	Animalia	Acrocephalidae	Acrocephalus scirpaceus (Hermann, 1804)	44.361046	15.151219	250	2017-05-30T02:00Z	30	5	2017
+1579837416	Animalia	Ardeidae	Ardeola ralloides (Scopoli, 1769)	44.361046	15.151219	250	2017-05-30T02:00Z	30	5	2017
+1586071334	Animalia	Nymphalidae	Argynnis paphia Linnaeus, 1758	45.029499	13.692741	250	2017-08-06T02:00Z	6	8	2017
+1579871442	Animalia	Nymphalidae	Brenthis daphne Denis & Schiffermüller, 1775	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1579871441	Animalia	Nymphalidae	Brenthis daphne Denis & Schiffermüller, 1775	45.443451	15.005221	250	2017-06-09T02:00Z	9	6	2017
+1586123794	Plantae	Cannabaceae	Celtis australis L.	45.268687	13.660628	4	2017-08-02T17:54Z	2	8	2017
+1579917401	Plantae	Cannabaceae	Celtis australis L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1579925521	Animalia	Charadriidae	Charadrius hiaticula Linnaeus, 1758	44.412693	15.089207	250	2017-05-29T02:00Z	29	5	2017
+1579922105	Animalia	Charadriidae	Charadrius hiaticula Linnaeus, 1758	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1579940193	Animalia	Cerambycidae	Clytus arietis (Linné, 1758)	445.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1572400713	Animalia	Chrysomelidae	Donacia versicolorea (Brahms, 1790) Brahms, 1790	44.179722	15.8175		2017-07-05T14:01Z	5	7	2017
+1585331806	Animalia	Noctuidae	Euclidia glyphica Linnaeus, 1758	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1585331369	Animalia	Noctuidae	Euclidia glyphica Linnaeus, 1758	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1621778393	Plantae	Asteraceae	Eupatorium cannabinum L.	44.943462	14.411737	2752	2017-08-18T22:36Z	18	8	2017
+1621778521	Plantae		Foeniculum vulgare Mill.	44.957676	14.400492		2017-08-18T20:53Z	18	8	2017
+1586946133	Plantae		Foeniculum vulgare Mill.	43.297016	17.021696	64	2017-08-15T19:51Z	15	8	2017
+1580060856	Plantae		Foeniculum vulgare Mill.	43.242828	17.087532	250	2017-06-05T02:00Z	5	6	2017
+1580072724	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1580070967	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580068785	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580067756	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	43.258057	17.063749	250	2017-04-13T02:00Z	13	4	2017
+1580067061	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	44.87339	14.984264	250	2017-06-01T02:00Z	1	6	2017
+1580064336	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	43.286812	17.023058	250	2017-04-14T02:00Z	14	4	2017
+1580064264	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	45.438725	14.852249	250	2017-06-09T02:00Z	9	6	2017
+1580063204	Animalia	Fringillidae		45,080399	14.144146	250	2017-05-23T02:00Z	23	5	2017
+1580062928	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	43,284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580062030	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	45,491428	14.691038	250	2017-06-12T02:00Z	12	6	2017
+1586115693	Animalia	Papilionidae	Iphiclides podalirius (Linnaeus, 1758)	43,907813	16.395941	13	2017-06-25T10:19Z	25	6	2017
+1580124364	Animalia	Papilionidae	Iphiclides podalirius (Linnaeus, 1758)	43,242828	17.087532	250	2017-06-07T02:00Z	7	6	2017
+1580124359	Animalia	Papilionidae	Iphiclides podalirius (Linnaeus, 1758)	45,089458	14.120672	250	2017-05-25T02:00Z	25	5	2017
+1580124338	Animalia	Papilionidae	Iphiclides podalirius (Linaeus, 1758)	44.87558	13.841143	250	2017-05-15T02:00Z	15	5	2017
+1580124312	Animalia	Papilionidae	 Iphiclides podalirius (Linnaeus, 1758)	43.26226	17.059801	250	2017-04-19T02:00Z	19	4	2017
+1572357606	Animalia	Papilionidae	Iphiclides podalirius (Linnaeus, 1758)	43.538721	16.482818	24	2017-07-03T02:00Z	3	7	2017
+1572351631	Animalia	Papilionidae	Iphiclides podalirius (Linnaeus, 1758)	44.955913		10	2017-06-20T14:39Z	20	6	2017
+1580139360	Animalia	Laniidae	Lanius collurio Linnaeus, 1758	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1580133497	Animalia	Laniidae	Lanius collurio Linnaeus, 1758	44.87339	14.984264	250	2017-06-01T02:00Z	1	6	2017
+1580133417	Animalia	Laniidae	Lanius collurio Linnaeus, 1758  	44.412693	15.089207	250	2017-05-29T02:00Z	29	5	2017
+1580131780	Animalia	Laniidae	Lanius collurio Linnaeus, 1758	45.419903	14.706059	250	2017-06-11T02:00Z	11	6	2017
+1580129508	Animalia	Laniidae	Lanius collurio Linnaeus, 1758	43.242828	17.087532	250	2017-06-04T02:00Z	4	6	2017
+1580129096	Animalia	Laniidae	Lanius collurio Linnaeus, 1758	14.917942	44.514317	250	2017-05-29T02:00Z	29	5	2017
+1580129039	Animalia	Laniidae	Lanius collurio Linnaeus, 1758	17.087532	43.242828	250	2017-06-11T02:00Z	11	6	2017
+1580133418	Animalia	Laniidae	Lanius senator Linnaeus, 1758	15.089207	44.412693	250	2017-05-29T02:00Z	29	5	2017
+1580129073	Animalia	Laniidae	Lanius senator Linnaeus, 1758	14.917942	44.514317	250	2017-05-29T02:00Z	29	5	2017
+1580129073	Animalia	Laniidae	Lanius senator Linnaeus, 1758	14.917942	44.514317	250	2017-05-29T02:00Z	29	5	2017
+1580135271	Animalia	Nymphalidae	Lasiommata maera (Linnaeus, 1758) Linnaeus, 1758	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580133910	Animalia	Nymphalidae	Lasiommata maera (Linnaeus, 1758) Linnaeus, 1758	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580135281	Plantae	Fabaceae	Lathyrus aphaca L.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1585342523	Animalia	Colubridae	Natrix tessellata (Laurenti, 1768)	44.871323	15.606251	250	2017-07-27T02:00Z	27	7	2017
+1580202558	Animalia	Strigidae	Otus scops (Linnaeus, 1758)	43.242828	17.087532	250	2017-06-13T02:00Z	13	6	2017
+1580202927	Plantae		Oxalis articulata Savigny	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580270672	Animalia	Tettigoniidae	Pholidoptera griseoaptera (De Geer, 1773)	43.284321	17.09173	250	2017-06-10T02:00Z	10	6	2017
+1580255873	Animalia	Tettigoniidae	Pholidoptera griseoaptera (De Geer, 1773)	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1621790625	Plantae	Dennstaedtiaceae	"Pteridium aquilinum (L.) Kuhn
+"	45.122326	14.34698		2017-08-20T13:36Z	20	8	2017
+1580397796	Plantae	Lamiaceae	Teucrium flavum L.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580397563	Plantae	Lamiaceae	Teucrium flavum L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580397274	Plantae	Lamiaceae	Teucrium flavum L.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1580460883	Plantae	Zosteraceae	Zostera noltii Hornem.	43.222797	17.000879	250	2017-06-13T02:00Z	13	6	2017
+1580461152	Animalia	Zygaenidae	Zygaena lonicerae Scheven, 1777	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017

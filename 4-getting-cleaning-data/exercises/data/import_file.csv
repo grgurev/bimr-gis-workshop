@@ -1,0 +1,1009 @@
+gbifid	kingdom	family	scientificname	decimallatitude	decimallongitude	coordinateuncertaintyinmeters	eventdate	day	month	year
+1621805398	Plantae	Fagaceae	Quercus cerris L.	45.120942	14.34662		2017-08-20T13:26Z	20	8	2017
+1621802565	Plantae	Oleaceae	Phillyrea latifolia L.	44.972328	14.396572		2017-08-22T11:39Z	22	8	2017
+1621802526	Plantae	Ericaceae	Arbutus unedo L.	44.631618	14.52943		2017-08-21T17:19Z	21	8	2017
+1621802520	Plantae	Euphorbiaceae	Euphorbia paralias L.	44.629761	14.530637		2017-08-21T20:04Z	21	8	2017
+1621802505	Plantae	Plantaginaceae	Linaria vulgaris Mill.	44.94569	14.41733		2017-08-22T18:34Z	22	8	2017
+1621802492	Plantae	Cupressaceae	Cupressus sempervirens L.	44.983253	14.386278		2017-08-22T12:28Z	22	8	2017
+1621802426	Plantae	Vitaceae	Parthenocissus quinquefolia (L.) Planchon	44.94614	14.41712		2017-08-22T18:31Z	22	8	2017
+1621794225	Animalia	Sciuridae	Sciurus vulgaris Linnaeus, 1758	43.322609	16.984155	86	2017-08-22T11:18Z	22	8	2017
+1621790776	Plantae	Aspleniaceae	Asplenium ceterach L.	45.126099	14.351871		2017-08-20T14:46Z	20	8	2017
+1621790698	Plantae	Cornaceae	Cornus mas L.	45.119629	14.346973		2017-08-20T13:22Z	20	8	2017
+1621790693	Plantae	Phytolaccaceae	Phytolacca americana L.	45.10708	14.356741	688	2017-08-20T19:07Z	20	8	2017
+1621790673	Plantae	Cornaceae	Cornus sanguinea L.	45.122314	14.347551		2017-08-20T13:45Z	20	8	2017
+1621790625	Plantae	Dennstaedtiaceae	Pteridium aquilinum (L.) Kuhn	45.122326	14.34698		2017-08-20T13:36Z	20	8	2017
+1621790619	Plantae	Rosaceae	Prunus spinosa L.	45.114532	14.353574		2017-08-20T15:22Z	20	8	2017
+1621790591	Plantae	Fagaceae	Castanea sativa Mill.	45.122849	14.353349		2017-08-20T14:58Z	20	8	2017
+1621790565	Plantae	Oleaceae	Olea europaea L.	45.116681	14.349316	344	2017-08-20T15:12Z	20	8	2017
+1621790542	Plantae	Lythraceae	Punica granatum L.	45.114189	14.353825		2017-08-20T15:23Z	20	8	2017
+1621781722	Plantae	Anacardiaceae	Pistacia lentiscus L.	44.523682	14.490514		2017-08-19T16:48Z	19	8	2017
+1621781671	Plantae	Anacardiaceae	Pistacia terebinthus L.	44.524387	14.489665		2017-08-19T16:52Z	19	8	2017
+1621778953	Plantae	Asteraceae	Centaurea calcitrapa L.	44.943836	14.413918		2017-08-18T21:10Z	18	8	2017
+1621778581	Plantae	Lauraceae	Laurus nobilis L.	44.946019	14.417503	2752	2017-08-18T22:39Z	18	8	2017
+1621778521	Plantae	Apiaceae	Foeniculum vulgare Mill.	44.957676	14.400492		2017-08-18T20:53Z	18	8	2017
+1621778489	Plantae	Asteraceae	Limbarda crithmoides (L.) Dumort.	44.955823	14.415335	19	2017-08-18T22:44Z	18	8	2017
+1621778470	Plantae	Betulaceae	Alnus glutinosa (L.) Gaertn.	44.944387	14.414014	2752	2017-08-18T22:38Z	18	8	2017
+1621778393	Plantae	Asteraceae	Eupatorium cannabinum L.	44.943462	14.411737	2752	2017-08-18T22:36Z	18	8	2017
+1621774058	Animalia	Lycaenidae	Aricia agestis (Denis & Schiffermüller, 1775)	44.234722	15.173333		2017-07-02T21:08Z	2	7	2017
+1621774054	Animalia	Nymphalidae	Pyronia cecilia Vallantin, 1894	44.233611	15.170833		2017-07-02T20:33Z	2	7	2017
+1621774053	Animalia	Lycaenidae	Polyommatus icarus (Rottemburg, 1775)	44.233611	15.171667		2017-07-02T20:41Z	2	7	2017
+1621774052	Animalia	Theridiidae	Latrodectus tredecimguttatus (Rossi, 1790)	44.213611	15.165		2017-07-03T20:45Z	3	7	2017
+1621774051	Animalia	Lycaenidae	Aricia agestis (Denis & Schiffermüller, 1775)	44.234444	15.173056		2017-07-02T21:07Z	2	7	2017
+1621773802	Animalia	Lycaenidae	Cacyreus marshalli Butler, 1897	43.562282	16.366925	24	2017-07-05T02:00Z	5	7	2017
+1621773563	Animalia	Nymphalidae	Lasiommata megera (Linnaeus, 1767) Linnaeus, 1767	43.554821	16.388297	48	2017-07-01T02:00Z	1	7	2017
+1621773562	Animalia	Nymphalidae	Melanargia galathea Linnaeus, 1758	43.554821	16.388297	48	2017-07-01T02:00Z	1	7	2017
+1621773560	Animalia	Nymphalidae	Coenonympha pamphilus Linnaeus, 1758	43.554821	16.388297	48	2017-07-01T02:00Z	1	7	2017
+1621773559	Animalia	Pieridae	Pieris rapae (Linnaeus, 1758)	43.550497	16.387364	12	2017-05-29T02:00Z	29	5	2017
+1621773278	Plantae	Asteraceae	Erigeron L.	45.987431	15.735055	10	2017-06-24T13:09Z	24	6	2017
+1586977371	Animalia	Turdidae	Turdus merula Linnaeus, 1758	45.080399	14.144146	250	2017-05-19T02:00Z	19	5	2017
+1586977030	Animalia	Delphinidae	Tursiops truncatus (Montagu, 1821)	43.22979	17.087307	25	2017-06-05T02:00Z	5	6	2017
+1586976067	Animalia	Scolopacidae	Tringa ochropus Linnaeus, 1758	45.029499	13.692741	250	2017-08-06T02:00Z	6	8	2017
+1586955192	Animalia	Sciuridae	Sciurus vulgaris Linnaeus, 1758	43.322291	16.984528	344	2017-08-18T11:55Z	18	8	2017
+1586955150	Animalia	Lacertidae	Podarcis melisellensis (Braun, 1877)	45.020565	14.158802	15	2017-06-20T22:45Z	20	6	2017
+1586953221	Plantae	Cucurbitaceae	Ecballium elaterium (L.) A. Rich.	44.694458	14.39638		2017-08-17T19:38Z	17	8	2017
+1586949898	Plantae	Asparagaceae	Ruscus aculeatus L.	44.951493	14.460895	1376	2017-08-16T14:23Z	16	8	2017
+1586949723	Plantae	Euphorbiaceae	Euphorbia characias L.	44.951519	14.45469		2017-08-16T11:58Z	16	8	2017
+1586949716	Plantae	Euphorbiaceae	Euphorbia myrsinites L.	44.950787	14.458518		2017-08-16T12:05Z	16	8	2017
+1586949701	Plantae	Asteraceae	Artemisia vulgaris Journet & Vickery, 1979	43.29673	17.021569	172	2017-08-16T15:00Z	16	8	2017
+1586949647	Plantae	Nyctaginaceae	Mirabilis jalapa L.	43.296806	17.021678	172	2017-08-16T18:32Z	16	8	2017
+1586946716	Plantae	Fagaceae	Quercus ilex L.	44.876129	14.44342		2017-08-15T18:34Z	15	8	2017
+1586946652	Plantae	Moraceae	Ficus carica L.	44.87613	14.444762	1376	2017-08-15T18:43Z	15	8	2017
+1586946649	Plantae	Rhamnaceae	Paliurus spina-christi Miller	44.87518	14.445457	5	2017-08-15T18:35Z	15	8	2017
+1586946612	Plantae	Apiaceae	Crithmum maritimum L.	44.875702	14.446136		2017-08-15T18:52Z	15	8	2017
+1586946554	Plantae	Asteraceae	Helichrysum italicum (Roth) G.Don	44.875992	14.44485		2017-08-15T18:43Z	15	8	2017
+1586946185	Plantae	Oleaceae	Olea europaea L.	43.298759	17.019066		2017-08-15T19:41Z	15	8	2017
+1586946174	Plantae	Asteraceae	Dittrichia viscosa (L.) Greuter	43.298759	17.019066		2017-08-15T19:41Z	15	8	2017
+1586946157	Plantae	Moraceae	Ficus carica L.	43.29879	17.019239		2017-08-15T19:42Z	15	8	2017
+1586946133	Plantae	Apiaceae	Foeniculum vulgare Mill.	43.297016	17.021696	64	2017-08-15T19:51Z	15	8	2017
+1586945662	Plantae	Smilacaceae	Smilax aspera L.	44.968773	14.392695		2017-08-14T21:04Z	14	8	2017
+1586931459	Plantae	Lamiaceae	Salvia glutinosa L.	45.307195	14.717662		2017-08-11T20:31Z	11	8	2017
+1586931368	Plantae	Balsaminaceae	Impatiens balfourii Hook. fil.	45.306703	14.716758		2017-08-11T20:12Z	11	8	2017
+1586924323	Animalia	Emydidae	Trachemys scripta subsp. elegans (Wied, 1838)	45.779375	15.922472	27	2017-06-10T20:03Z	10	6	2017
+1586922537	Animalia	Nymphalidae	Pyronia tithonus Linnaeus, 1771	44.234444	15.173056		2017-07-02T21:04Z	2	7	2017
+1586921796	Animalia	Satyridae	Brintesia circe (Fabricius, 1775) Fabricius, 1775	43.558164	16.440868	48	2017-07-03T02:00Z	3	7	2017
+1586921645	Plantae	Brassicaceae	Capsella bursa-pastoris (L.) Medik.	46.076408	15.676988	10	2017-06-25T19:12Z	25	6	2017
+1586921644	Animalia	Rhaphidophoridae	Troglophilus neglectus Krauss, 1879	45.38531	13.92679	11	2017-06-28T15:55Z	28	6	2017
+1586921643	Animalia	Rhaphidophoridae	Troglophilus neglectus Krauss, 1879	45.28743	13.63506	11	2017-06-28T17:24Z	28	6	2017
+1586921577	Animalia	Nymphalidae	Argynnis niobe Alphéraky, 1881	43.550404	16.387192	12	2017-06-29T02:00Z	29	6	2017
+1586921576	Animalia	Nymphalidae	Pararge aegeria Linnaeus, 1758	43.550518	16.38739	6	2017-06-27T02:00Z	27	6	2017
+1586921575	Animalia	Rhaphidophoridae	Troglophilus neglectus Krauss, 1879	45.064536	14.065941	11	2017-06-24T20:41Z	24	6	2017
+1586921555	Animalia	Tortricidae	Clepsis consimilana Hübner, 1820	43.550514	16.387385	6	2017-06-30T02:00Z	30	6	2017
+1586921402	Animalia	Tortricidae	Cydia pomonella Linnaeus, 1758	43.550522	16.38738	6	2017-06-27T02:00Z	27	6	2017
+1586917805	Animalia	Podicipedidae	Tachybaptus ruficollis (Pallas, 1764)	45.029499	13.692741	250	2017-08-06T02:00Z	6	8	2017
+1586913321	Animalia	Sylviidae	Sylvia borin (Boddaert, 1783)	45.035553	13.889122	250	2017-08-05T02:00Z	5	8	2017
+1586200572	Animalia	Charadriidae	Pluvialis squatarola (Linnaeus, 1758)	45.029499	13.692741	250	2017-08-06T02:00Z	6	8	2017
+1586199488	Animalia	Picidae	Picus viridis Linnaeus, 1758	45.035553	13.889122	250	2017-08-05T02:00Z	5	8	2017
+1586198506	Animalia	Accipitridae	Pernis apivorus (Linnaeus, 1758)	45.035553	13.889122	250	2017-07-31T02:00Z	31	7	2017
+1586196903	Animalia	Passeridae	Passer domesticus (Linnaeus, 1758)	45.035553	13.889122	250	2017-08-05T02:00Z	5	8	2017
+1586194939	Animalia	Nymphalidae	Melitaea didyma Esper, 1780	45.035553	13.889122	250	2017-07-31T02:00Z	31	7	2017
+1586168028	Animalia	Nymphalidae	Limenitis reducta Staudinger, 1901	45.035553	13.889122	250	2017-07-31T02:00Z	31	7	2017
+1586167328	Animalia	Laridae	Larus michahellis J. F. Naumann, 1840	45.029499	13.692741	250	2017-08-06T02:00Z	6	8	2017
+1586162657	Animalia	Recurvirostridae	Himantopus himantopus (Linnaeus, 1758)	45.029499	13.692741	250	2017-08-06T02:00Z	6	8	2017
+1586162439	Animalia	Hirundinidae	Hirundo rustica Linnaeus, 1758	45.035553	13.889122	250	2017-08-05T02:00Z	5	8	2017
+1586160517	Animalia	Corvidae	Garrulus glandarius (Linnaeus, 1758)	45.029499	13.692741	250	2017-08-06T02:00Z	6	8	2017
+1586159715	Plantae	Caryophyllaceae	Silene latifolia Poir.	45.306295	14.715462		2017-08-11T09:21Z	11	8	2017
+1586127546	Animalia	Pinnidae	Pinna nobilis Linnaeus, 1758	43.891339	15.1594	8	2017-07-19T13:12Z	19	7	2017
+1586127524	Animalia	Grapsidae	Pachygrapsus marmoratus (Fabricius, 1787)	43.891204	15.159137	8	2017-07-19T13:36Z	19	7	2017
+1586123837	Plantae	Fabaceae	Robinia pseudoacacia L.	45.268734	13.660587	4	2017-08-02T17:55Z	2	8	2017
+1586123794	Plantae	Cannabaceae	Celtis australis L.	45.268687	13.660628	4	2017-08-02T17:54Z	2	8	2017
+1586123287	Animalia	Littorinidae	Melarhaphe neritoides (Linnaeus, 1758)	43.941254	15.162034	61	2017-07-18T16:59Z	18	7	2017
+1586123236	Plantae	Apiaceae	Crithmum maritimum L.	43.941254	15.162163	61	2017-07-18T16:53Z	18	7	2017
+1586123197	Animalia	Actiniidae	Anemonia viridis (Forskål, 1775)	43.941223	15.161777	61	2017-07-18T16:03Z	18	7	2017
+1586120908	Plantae	Apiaceae	Crithmum maritimum L.	44.778525	13.916852	4	2017-08-01T15:16Z	1	8	2017
+1586120872	Plantae	Fabaceae	Robinia pseudoacacia L.	44.778597	13.916875	4	2017-08-01T15:21Z	1	8	2017
+1586120760	Plantae	Cupressaceae	Juniperus deltoides R.P. Adams	44.771291	13.907306	8	2017-08-01T12:33Z	1	8	2017
+1586120489	Plantae	Anacardiaceae	Pistacia lentiscus L.	44.771429	13.907801	4	2017-08-01T12:32Z	1	8	2017
+1586119078	Plantae	Moraceae	Ficus carica L.	43.889481	15.161133	1532	2017-07-26T18:12Z	26	7	2017
+1586118684	Plantae	Moraceae	Ficus carica L.	44.783989	13.909071	3	2017-08-01T11:04Z	1	8	2017
+1586116264	Plantae	Asparagaceae	Ruscus aculeatus L.	44.782459	13.909869	4128	2017-07-31T23:52Z	31	7	2017
+1586116248	Plantae	Lauraceae	Laurus nobilis L.	44.792081	13.90538	2064	2017-07-31T23:37Z	31	7	2017
+1586115861	Animalia	Aeshnidae	Aeshna affinis Vander Linden, 1820	45.025553	13.701947	29	2017-07-04T11:58Z	4	7	2017
+1586115819	Animalia	Passeridae	Passer montanus (Linnaeus, 1758)	45.508687	16.213186	18	2017-07-08T11:17Z	8	7	2017
+1586115799	Plantae	Papaveraceae	Glaucium flavum Crantz	45.024325	13.701442	15	2017-07-04T12:15Z	4	7	2017
+1586115796	Animalia	Phalacrocoracidae	Microcarbo pygmeus (Pallas, 1773)	45.025986	13.70119	49	2017-07-04T11:20Z	4	7	2017
+1586115764	Animalia	Ardeidae	Egretta garzetta (Linnaeus, 1766)	45.026228	13.701657	38	2017-07-04T11:21Z	4	7	2017
+1586115715	Animalia	Nymphalidae	Lasiommata megera (Linnaeus, 1767) Linnaeus, 1767	43.907999	16.395767	9	2017-06-25T10:28Z	25	6	2017
+1586115693	Animalia	Papilionidae	Iphiclides podalirius (Linnaeus, 1758)	43.907813	16.395941	13	2017-06-25T10:19Z	25	6	2017
+1586115690	Animalia	Nymphalidae	Issoria lathonia Linnaeus, 1758	43.907872	16.395821	11	2017-06-25T10:24Z	25	6	2017
+1586115684	Animalia	Pieridae	Pieris brassicae (Linnaeus, 1758)	43.907933	16.395818	14	2017-06-25T10:15Z	25	6	2017
+1586115669	Animalia	Nymphalidae	Maniola jurtina Linnaeus, 1758	43.908049	16.395689	10	2017-06-25T10:23Z	25	6	2017
+1586115668	Animalia	Nymphalidae	Melanargia galathea Linnaeus, 1758	43.975157	16.430587	14	2017-06-24T16:57Z	24	6	2017
+1586115665	Animalia	Lycaenidae	Polyommatus daphnis (Denis & Schiffermüller, 1775)	43.909684	16.394396	14	2017-06-25T10:17Z	25	6	2017
+1586115663	Animalia	Pieridae	Gonepteryx rhamni (Linnaeus, 1758)	43.908265	16.395652	20	2017-06-25T10:14Z	25	6	2017
+1586115657	Animalia	Papilionidae	Papilio machaon Linnaeus, 1758	43.908644	16.395442	14	2017-06-25T10:17Z	25	6	2017
+1586115577	Animalia	Arctiidae	Amata phegea Linnaeus, 1758	43.973197	16.431856	61	2017-06-24T16:55Z	24	6	2017
+1586115549	Animalia	Calopterygidae	Calopteryx virgo Linnaeus, 1758	43.907242	16.396751	31	2017-06-17T11:00Z	17	6	2017
+1586114974	Plantae	Apiaceae	Crithmum maritimum L.	43.882605	15.169888	61	2017-07-26T17:15Z	26	7	2017
+1586114425	Animalia	Hirundinidae	Hirundo rustica Linnaeus, 1758	44.801309	13.910248	1032	2017-07-30T10:39Z	30	7	2017
+1586111536	Animalia	Ciconiidae	Ciconia ciconia (Linnaeus, 1758)	45.609277	18.797865	122	2017-05-14T18:52Z	14	5	2017
+1586111486	Animalia	Anatidae	Aix galericulata (Linnaeus, 1758)	45.83614	16.094299	27079	2017-05-20T15:54Z	20	5	2017
+1586111221	Animalia	Lacertidae	Podarcis muralis (Laurenti, 1768)	45.803957	16.010149	25	2017-03-08T13:42Z	8	3	2017
+1586109198	Plantae	Rosaceae	Prunus spinosa L.	44.799862	13.906714	4	2017-07-30T11:05Z	30	7	2017
+1586098127	Plantae	Potamogetonaceae	Potamogeton natans L.	44.179722	15.8175		2017-07-05T14:01Z	5	7	2017
+1586098119	Animalia	Gekkonidae	Hemidactylus turcicus (Linnaeus, 1758) Linnaeus, 1758	44.221944	15.175556		2017-07-03T22:16Z	3	7	2017
+1586098117	Animalia	Pentatomidae	Eurydema dominulus (Scopoli, 1763) Scopoli, 1763	44.225278	15.171389		2017-07-04T22:13Z	4	7	2017
+1586098116	Animalia	Lacertidae	Podarcis siculus (Rafinesque-schmaltz, 1810)	44.281667	15.124722		2017-07-04T22:11Z	4	7	2017
+1586098112	Animalia	Lacertidae	Podarcis siculus (Rafinesque-schmaltz, 1810)	44.231152	15.167791	31	2017-07-03T15:08Z	3	7	2017
+1586097455	Animalia	Ectobiidae	Loboptera decipiens (Germar, 1817)	44.232745	15.171369	688	2017-07-01T22:18Z	1	7	2017
+1586097389	Animalia	Lacertidae	Lacerta trilineata Bedriaga, 1886	44.233055	15.171111		2017-07-01T21:50Z	1	7	2017
+1586096689	Animalia	Lacertidae	Lacerta trilineata Bedriaga, 1886	45.056287	14.870768	122	2017-07-02T11:24Z	2	7	2017
+1586096669	Animalia	Nymphalidae	Limenitis reducta Staudinger, 1901	43.558164	16.440868	48	2017-07-03T02:00Z	3	7	2017
+1586096332	Animalia	Lacertidae	Podarcis muralis (Laurenti, 1768)	44.870837	13.845449	7	2017-06-22T17:53Z	22	6	2017
+1586096316	Animalia	Lacertidae	Podarcis muralis (Laurenti, 1768)	45.243896	13.93658	23	2017-06-19T19:31Z	19	6	2017
+1586096308	Animalia	Lacertidae	Podarcis muralis (Laurenti, 1768)	45.220859	14.046873	23	2017-06-19T16:46Z	19	6	2017
+1586096305	Animalia	Unionidae	Unio crassus Philippson in Retzius, 1788	45.356956	13.938764	27174	2017-06-19T19:11Z	19	6	2017
+1586095553	Plantae	Onagraceae	Epilobium hirsutum L.	45.815285	15.906794	10	2017-06-24T20:34Z	24	6	2017
+1586094890	Animalia	Lacertidae	Podarcis siculus (Rafinesque-schmaltz, 1810)	43.907262	16.397959	4	2017-06-16T10:42Z	16	6	2017
+1586094870	Animalia	Lacertidae	Podarcis melisellensis (Braun, 1877)	42.595428	18.245029	694	2017-06-10T02:25Z	10	6	2017
+1586094439	Animalia	Lacertidae	Dalmatolacerta oxycephala (Duméril & Bibron, 1839)	42.635344	18.131062	77	2017-06-06T07:06Z	6	6	2017
+1586094410	Animalia	Lacertidae	Lacerta Linnaeus, 1758	44.062026	16.144193	8	2017-06-08T09:22Z	8	6	2017
+1586088352	Animalia	Rallidae	Fulica atra Linnaeus, 1758	45.029499	13.692741	250	2017-08-06T02:00Z	6	8	2017
+1586081721	Animalia	Emberizidae	Emberiza cirlus Linnaeus, 1766	45.035553	13.889122	250	2017-08-05T02:00Z	5	8	2017
+1586081599	Animalia	Ardeidae	Egretta alba (Linnaeus, 1758)	45.029499	13.692741	250	2017-08-06T02:00Z	6	8	2017
+1586081597	Animalia	Ardeidae	Egretta garzetta (Linnaeus, 1766)	45.029499	13.692741	250	2017-08-06T02:00Z	6	8	2017
+1586072836	Animalia	Accipitridae	Buteo buteo (Linnaeus, 1758)	45.035553	13.889122	250	2017-07-31T02:00Z	31	7	2017
+1586071334	Animalia	Nymphalidae	Argynnis paphia Linnaeus, 1758	45.029499	13.692741	250	2017-08-06T02:00Z	6	8	2017
+1586070031	Animalia	Anatidae	Anas platyrhynchos Linnaeus, 1758	45.029499	13.692741	250	2017-08-06T02:00Z	6	8	2017
+1586067841	Animalia	Scolopacidae	Actitis hypoleucos (Linnaeus, 1758)	45.029499	13.692741	250	2017-08-06T02:00Z	6	8	2017
+1585342523	Animalia	Colubridae	Natrix tessellata (Laurenti, 1768)	44.871323	15.606251	250	2017-07-27T02:00Z	27	7	2017
+1585331806	Animalia	Noctuidae	Euclidia glyphica Linnaeus, 1758	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1585331793	Animalia	Noctuidae	Euclidia mi (Clerck, 1759) Clerck, 1759	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1585331369	Animalia	Noctuidae	Euclidia glyphica Linnaeus, 1758	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1585331354	Animalia	Noctuidae	Euclidia mi (Clerck, 1759) Clerck, 1759	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580507830	Animalia	Tortricidae	Pseudargyrotoza conwagana Fabricius, 1771	43.550512	16.387385	6	2017-07-03T02:00Z	3	7	2017
+1580490897	Plantae	Araliaceae	Hedera helix L.	44.187778	15.822222		2017-07-05T15:00Z	5	7	2017
+1580490877	Animalia	Calopterygidae	Calopteryx virgo Linnaeus, 1758	44.246389	15.810556		2017-07-05T14:00Z	5	7	2017
+1580490871	Plantae	Alismataceae	Alisma lanceolatum With.	44.188056	15.818333		2017-07-05T14:43Z	5	7	2017
+1580490860	Plantae	Moraceae	Ficus carica L.	44.231389	15.163889		2017-07-03T22:03Z	3	7	2017
+1580490850	Animalia	Lycaenidae	Polyommatus icarus (Rottemburg, 1775)	44.16166	15.848533	4	2017-07-05T12:14Z	5	7	2017
+1580490824	Plantae	Fabaceae	Lotus corniculatus L.	44.273889	15.126944		2017-07-04T22:38Z	4	7	2017
+1580490821	Animalia	Acrididae	Oedaleus decorus (Germar, 1825)	44.213333	15.164167		2017-07-03T20:58Z	3	7	2017
+1580490818	Plantae	Caryophyllaceae	Silene latifolia Poir.	44.271667	15.127778		2017-07-04T22:51Z	4	7	2017
+1580490817	Animalia	Acrididae	Oedaleus decorus (Germar, 1825)	44.211614	15.163346	15	2017-07-03T20:51Z	3	7	2017
+1580490809	Animalia	Sparidae	Diplodus vulgaris (Geoffroy Saint-Hilaire, 1817)	44.228639	15.163663	4	2017-07-01T23:54Z	1	7	2017
+1580490807	Animalia	Pentatomidae	Eurydema ornata (Linnaeus, 1758) Linnaeus, 1758	44.281667	15.124722		2017-07-04T22:14Z	4	7	2017
+1580490789	Animalia	Curculionidae	Otiorhynchus sensitivus (Scopoli, 1763)	44.236111	15.173889		2017-07-02T21:21Z	2	7	2017
+1580489231	Animalia	Atherinidae	Atherina hepsetus Linnaeus, 1758	44.228595	15.163605	43	2017-07-01T23:46Z	1	7	2017
+1580489128	Animalia	Noctuidae	Ophiusa tirhaca Cramer, 1780	43.550512	16.387385	6	2017-07-04T02:00Z	4	7	2017
+1580489125	Animalia	Geometridae	Gymnoscelis rufifasciata Haworth, 1809	43.550512	16.387385	6	2017-07-03T02:00Z	3	7	2017
+1580487379	Plantae	Passifloraceae	Passiflora caerulea L.	44.956993	14.414639		2017-06-19T19:04Z	19	6	2017
+1580461419	Animalia	Zygaenidae	Zygaena filipendulae Linnaeus, 1758	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1580461318	Animalia	Zygaenidae	Zygaena filipendulae Linnaeus, 1758	45.094612	14.18886	250	2017-05-23T02:00Z	23	5	2017
+1580461152	Animalia	Zygaenidae	Zygaena lonicerae Scheven, 1777	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580461031	Animalia	Zygaenidae	Zygaena filipendulae Linnaeus, 1758	43.242828	17.087532	250	2017-06-09T02:00Z	9	6	2017
+1580461019	Animalia	Zygaenidae	Zygaena filipendulae Linnaeus, 1758	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580460908	Plantae	Zosteraceae	Zostera marina L.	43.201672	17.126312	250	2017-06-14T02:00Z	14	6	2017
+1580460883	Plantae	Zosteraceae	Zostera noltii Hornem.	43.222797	17.000879	250	2017-06-13T02:00Z	13	6	2017
+1580460588	Plantae	Rhamnaceae	Ziziphus jujuba Miller	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1580460306	Animalia	Colubridae	Zamenis situla (Linnaeus, 1758)	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580460304	Animalia	Colubridae	Zamenis longissimus (Laurenti, 1768)	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580460242	Plantae	Asparagaceae	Yucca gloriosa L.	44.87558	13.841143	250	2017-05-15T02:00Z	15	5	2017
+1580460239	Plantae	Asparagaceae	Yucca gloriosa L.	45.089458	14.120672	250	2017-05-17T02:00Z	17	5	2017
+1580460230	Plantae	Asparagaceae	Yucca gloriosa L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580459465	Animalia	Apidae	Xylocopa violacea (Linnaeus, 1758)	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580459196	Animalia	Apidae	Xylocopa violacea (Linnaeus, 1758)	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580458272	Plantae	Asteraceae	Xanthium strumarium L.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580455114	Plantae	Fabaceae	Vicia grandiflora Scop.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580454937	Plantae	Fabaceae	Vicia L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580454928	Plantae	Apocynaceae	Vinca difformis Pourr.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580454364	Plantae	Lamiaceae	Vitex agnus-castus L.	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580454349	Plantae	Apocynaceae	Vincetoxicum hirundinaria Medik.	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580450661	Plantae	Caprifoliaceae	Valeriana tuberosa L.	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1580448503	Plantae	Caprifoliaceae	Valeriana officinalis L.	43.284321	17.09173	250	2017-06-10T02:00Z	10	6	2017
+1580446625	Animalia	Nymphalidae	Vanessa cardui (Linnaeus, 1758) Linnaeus, 1758	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580444374	Animalia	Nymphalidae	Vanessa atalanta Linnaeus, 1758	43.242828	17.087532	250	2017-06-04T02:00Z	4	6	2017
+1580444126	Animalia	Nymphalidae	Vanessa cardui (Linnaeus, 1758) Linnaeus, 1758	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580442541	Plantae	Asteraceae	Urospermum picroides (L.) Scop.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580442529	Plantae	Asteraceae	Urospermum picroides (L.) Scop.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1580442441	Animalia	Upupidae	Upupa epops Linnaeus, 1758	43.242828	17.087532	250	2017-06-14T02:00Z	14	6	2017
+1580442412	Animalia	Upupidae	Upupa epops Linnaeus, 1758	43.242828	17.087532	250	2017-06-07T02:00Z	7	6	2017
+1580442363	Animalia	Upupidae	Upupa epops Linnaeus, 1758	43.242828	17.087532	250	2017-06-06T02:00Z	6	6	2017
+1580442344	Animalia	Upupidae	Upupa epops Linnaeus, 1758	43.242828	17.087532	250	2017-06-05T02:00Z	5	6	2017
+1580442330	Animalia	Upupidae	Upupa Linnaeus, 1758	44.361046	15.151219	250	2017-05-30T02:00Z	30	5	2017
+1580442302	Animalia	Upupidae	Upupa epops Linnaeus, 1758	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580442207	Animalia	Upupidae	Upupa epops Linnaeus, 1758	43.258057	17.063749	250	2017-04-13T02:00Z	13	4	2017
+1580442172	Animalia	Upupidae	Upupa epops Linnaeus, 1758	43.242828	17.087532	250	2017-06-12T02:00Z	12	6	2017
+1580441571	Animalia	Noctuidae	Tyta luctuosa Schiffermüller, 1776	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580440580	Animalia	Turdidae	Turdus merula Linnaeus, 1758	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1580428727	Animalia	Turdidae	Turdus merula Linnaeus, 1758	43.258057	17.063749	250	2017-04-13T02:00Z	13	4	2017
+1580420250	Animalia	Turdidae	Turdus merula Linnaeus, 1758	43.286812	17.023058	250	2017-04-14T02:00Z	14	4	2017
+1580420110	Animalia	Turdidae	Turdus philomelos C. L. Brehm, 1831	45.438725	14.852249	250	2017-06-09T02:00Z	9	6	2017
+1580417601	Animalia	Turdidae	Turdus merula Linnaeus, 1758	43.242828	17.087532	250	2017-06-04T02:00Z	4	6	2017
+1580417393	Animalia	Turdidae	Turdus merula Linnaeus, 1758	45.080399	14.144146	250	2017-05-23T02:00Z	23	5	2017
+1580416796	Animalia	Turdidae	Turdus merula Linnaeus, 1758	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580413411	Animalia	Cleridae	Trichodes apiarius (Linnaeus, 1758) Linnaeus, 1758	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1580412565	Animalia	Hygromiidae	Trochulus villosus (Draparnaud, 1805) Draparnaud, 1805	45.463352	14.853622	250	2017-06-10T02:00Z	10	6	2017
+1580411686	Animalia	Trachinidae	Trachinus draco Linnaeus, 1758	43.222797	17.000879	250	2017-06-13T02:00Z	13	6	2017
+1580411433	Animalia	Troglodytidae	Troglodytes troglodytes (Linnaeus, 1758)	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580410978	Plantae	Arecaceae	Trachycarpus fortunei (Hook.) H.Wendl.	45.089458	14.120672	250	2017-05-17T02:00Z	17	5	2017
+1580409968	Animalia	Cetoniidae	Tropinota Mulsant, 1842	45.094612	14.18886	250	2017-05-23T02:00Z	23	5	2017
+1580407876	Plantae	Fabaceae	Trifolium stellatum L.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580407068	Plantae	Arecaceae	Trachycarpus fortunei (Hook.) H.Wendl.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580404318	Plantae	Fabaceae	Trifolium campestre Schreb.	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580399854	Animalia	Hesperiidae	Thymelicus sylvestris Poda, 1761	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580398562	Animalia	Hygromiidae	Theba pisana (Müller, 1774)	43.242828	17.087532	250	2017-06-05T02:00Z	5	6	2017
+1580398126	Plantae	Lamiaceae	Teucrium montanum L.	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1580397863	Animalia	Tenthredinidae	Tenthredo zona Klug, 1817	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1580397796	Plantae	Lamiaceae	Teucrium flavum L.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580397563	Plantae	Lamiaceae	Teucrium flavum L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580397274	Plantae	Lamiaceae	Teucrium flavum L.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1580393122	Plantae	Tamaricaceae	Tamarix ramosissima Ledeb.	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1580391007	Animalia	Podicipedidae	Tachybaptus ruficollis (Pallas, 1764)	44.361046	15.151219	250	2017-05-30T02:00Z	30	5	2017
+1580389960	Animalia	Sylviidae	Sylvia atricapilla (Linnaeus, 1758)	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1580389875	Animalia	Sylviidae	Sylvia melanocephala (Gmelin, 1789)	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1580388233	Animalia	Sylviidae	Sylvia atricapilla (Linnaeus, 1758)	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580387364	Animalia	Sylviidae	Sylvia atricapilla (Linnaeus, 1758)	45.363968	14.707689	250	2017-06-11T02:00Z	11	6	2017
+1580386174	Animalia	Sylviidae	Sylvia atricapilla (Linnaeus, 1758)	45.380669	14.821115	250	2017-06-11T02:00Z	11	6	2017
+1580384959	Animalia	Sylviidae	Sylvia atricapilla (Linnaeus, 1758)	43.258057	17.063749	250	2017-04-13T02:00Z	13	4	2017
+1580384175	Animalia	Sylviidae	Sylvia melanocephala (Gmelin, 1789)	44.412693	15.089207	250	2017-05-29T02:00Z	29	5	2017
+1580381437	Animalia	Sylviidae	Sylvia atricapilla (Linnaeus, 1758)	43.286812	17.023058	250	2017-04-14T02:00Z	14	4	2017
+1580381395	Animalia	Sylviidae	Sylvia borin (Boddaert, 1783)	43.263351	17.057098	250	2017-04-14T02:00Z	14	4	2017
+1580381393	Animalia	Sylviidae	Sylvia atricapilla (Linnaeus, 1758)	45.438725	14.852249	250	2017-06-09T02:00Z	9	6	2017
+1580381386	Animalia	Sylviidae	Sylvia melanocephala (Gmelin, 1789)	43.263351	17.057098	250	2017-04-14T02:00Z	14	4	2017
+1580381383	Animalia	Sylviidae	Sylvia atricapilla (Linnaeus, 1758)	43.263351	17.057098	250	2017-04-14T02:00Z	14	4	2017
+1580381382	Animalia	Sylviidae	Sylvia curruca (Linnaeus, 1758)	43.263351	17.057098	250	2017-04-14T02:00Z	14	4	2017
+1580380364	Animalia	Sylviidae	Sylvia atricapilla (Linnaeus, 1758)	43.242828	17.087532	250	2017-06-04T02:00Z	4	6	2017
+1580379980	Animalia	Sylviidae	Sylvia melanocephala (Gmelin, 1789)	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580379265	Animalia	Sylviidae	Sylvia atricapilla (Linnaeus, 1758)	45.491428	14.691038	250	2017-06-12T02:00Z	12	6	2017
+1580379134	Animalia	Sylviidae	Sylvia atricapilla (Linnaeus, 1758)	43.258057	17.063749	250	2017-04-15T02:00Z	15	4	2017
+1580378648	Animalia	Suidae	Sus scrofa Linnaeus, 1758	43.242828	17.087532	250	2017-06-14T02:00Z	14	6	2017
+1580377535	Plantae	Poaceae	Stipa pennata L.	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1580376624	Animalia	Columbidae	Streptopelia turtur (Linnaeus, 1758)	43.321823	16.985561	25	2017-06-11T02:00Z	11	6	2017
+1580375576	Animalia	Columbidae	Streptopelia turtur (Linnaeus, 1758)	43.222797	17.000879	250	2017-06-13T02:00Z	13	6	2017
+1580375239	Animalia	Strigidae	Strix aluco Linnaeus, 1758	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580374684	Animalia	Sturnidae	Sturnus vulgaris Linnaeus, 1758	45.089458	14.120672	250	2017-05-17T02:00Z	17	5	2017
+1580374059	Animalia	Columbidae	Streptopelia decaocto (Frivaldszky, 1838)	45.080399	14.144146	250	2017-05-15T02:00Z	15	5	2017
+1580373565	Plantae	Lamiaceae	Stachys sylvatica L.	45.094612	14.18886	250	2017-05-23T02:00Z	23	5	2017
+1580373184	Animalia	Columbidae	Streptopelia decaocto (Frivaldszky, 1838)	43.26226	17.059801	250	2017-04-14T02:00Z	14	4	2017
+1580370836	Animalia	Columbidae	Streptopelia decaocto (Frivaldszky, 1838)	43.258057	17.063749	250	2017-04-13T02:00Z	13	4	2017
+1580369243	Animalia	Sturnidae	Sturnus vulgaris Linnaeus, 1758	45.087612	13.878181	250	2017-05-22T02:00Z	22	5	2017
+1580368987	Animalia	Columbidae	Streptopelia decaocto (Frivaldszky, 1838)	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1580364697	Animalia	Columbidae	Streptopelia decaocto (Frivaldszky, 1838)	43.242828	17.087532	250	2017-06-06T02:00Z	6	6	2017
+1580364263	Animalia	Columbidae	Streptopelia turtur (Linnaeus, 1758)	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580364186	Animalia	Columbidae	Streptopelia turtur (Linnaeus, 1758)	43.242828	17.087532	250	2017-06-11T02:00Z	11	6	2017
+1580362537	Plantae	Fabaceae	Spartium junceum L.	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1580362454	Plantae	Fabaceae	Spartium junceum L.	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1580362401	Animalia	Toxopneustidae	Sphaerechinus granularis (Lamarck, 1816)	43.222797	17.000879	250	2017-06-13T02:00Z	13	6	2017
+1580362000	Animalia	Arctiidae	Spilarctia	45.405193	14.799158	250	2017-06-11T02:00Z	11	6	2017
+1580361857	Plantae	Fabaceae	Spartium junceum L.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580361789	Animalia	Lygaeidae	Spilostethus pandurus (Scopoli, 1763) Scopoli, 1763	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580361731	Plantae	Fabaceae	Spartium junceum L.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1580361613	Animalia	Sphingidae	Sphinx ligustri Linnaeus, 1758	45.405193	14.799158	250	2017-06-12T02:00Z	12	6	2017
+1580360553	Plantae	Solanaceae	Solanum dulcamara L.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580359570	Plantae	Smilacaceae	Smilax aspera L.	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1580359566	Plantae	Smilacaceae	Smilax aspera L.	45.066006	14.140863	250	2017-05-29T02:00Z	29	5	2017
+1580359532	Plantae	Smilacaceae	Smilax aspera L.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1580358663	Plantae	Caryophyllaceae	Silene vulgaris (Moench) Garcke	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1580358366	Animalia	Geometridae	Siona lineata Scopoli, 1763	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580358357	Plantae	Caryophyllaceae	Silene flos-cuculi (L.) Greuter & Burdet	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580357462	Plantae	Asteraceae	Silybum marianum (L.) Gaertn.	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1580356379	Animalia	Conopidae	Sicus ferrugineus (Linnaeus, 1761)	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580356220	Plantae	Caryophyllaceae	Silene gallica L.	45.080399	14.144146	250	2017-05-16T02:00Z	16	5	2017
+1580356135	Animalia	Sittidae	Sitta neumayer Michahelles, 1830	44.87339	14.984264	250	2017-06-01T02:00Z	1	6	2017
+1580354604	Plantae	Asteraceae	Silybum marianum (L.) Gaertn.	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580352582	Animalia	Sepiidae	Sepia officinalis Linnaeus, 1758	43.201672	17.126312	250	2017-06-14T02:00Z	14	6	2017
+1580352360	Animalia	Sepiidae	Sepia officinalis Linnaeus, 1758	43.222797	17.000879	250	2017-06-13T02:00Z	13	6	2017
+1580352171	Animalia	Fringillidae	Serinus serinus (Linnaeus, 1766)	45.089458	14.120672	250	2017-05-17T02:00Z	17	5	2017
+1580351860	Animalia	Fringillidae	Serinus serinus (Linnaeus, 1766)	45.094612	14.18886	250	2017-05-23T02:00Z	23	5	2017
+1580350812	Animalia	Fringillidae	Serinus serinus (Linnaeus, 1766)	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580349919	Animalia	Fringillidae	Serinus serinus (Linnaeus, 1766)	43.286812	17.023058	250	2017-04-14T02:00Z	14	4	2017
+1580349791	Plantae	Crassulaceae	Sedum album L.	45.089458	14.120672	250	2017-05-25T02:00Z	25	5	2017
+1580349737	Animalia	Fringillidae	Serinus serinus (Linnaeus, 1766)	45.089458	14.120672	250	2017-05-25T02:00Z	25	5	2017
+1580349563	Animalia	Fringillidae	Serinus serinus (Linnaeus, 1766)	43.242828	17.087532	250	2017-06-04T02:00Z	4	6	2017
+1580349470	Animalia	Fringillidae	Serinus serinus (Linnaeus, 1766)	43.242828	17.087532	250	2017-06-11T02:00Z	11	6	2017
+1580349290	Animalia	Fringillidae	Serinus serinus (Linnaeus, 1766)	43.258057	17.063749	250	2017-04-15T02:00Z	15	4	2017
+1580348772	Animalia	Scoliidae	Scolia hirta (Schrank, 1781) Schrank, 1781	43.222797	17.000879	250	2017-06-08T02:00Z	8	6	2017
+1580348425	Fungi	Schizophyllaceae	Schizophyllum commune Fr., 1815	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580347331	Animalia	Geometridae	Scopula imitaria Hübner, 1798	45.080399	14.144146	250	2017-05-26T02:00Z	26	5	2017
+1580347066	Plantae	Scrophulariaceae	Scrophularia peregrina L.	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1580346429	Animalia	Crambidae	Scoparia ingratella Zeller, 1846	45.438725	14.852249	250	2017-06-09T02:00Z	9	6	2017
+1580345944	Animalia	Sciuridae	Sciurus vulgaris Linnaeus, 1758	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580345827	Animalia	Lycaenidae	Scolitantides orion (Pallas, 1771)	43.258057	17.063749	250	2017-04-15T02:00Z	15	4	2017
+1580345341	Animalia	Lycaenidae	Satyrium ilicis (Esper, 1779) Esper, 1779	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1580345319	Animalia	Muscicapidae	Saxicola rubetra (Linnaeus, 1758)	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1580344697	Plantae	Lamiaceae	Salvia officinalis L.	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1580344207	Plantae	Adoxaceae	Sambucus nigra L.	45.089458	14.120672	250	2017-05-17T02:00Z	17	5	2017
+1580343249	Animalia	Lycaenidae	Satyrium ilicis (Esper, 1779) Esper, 1779	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580342603	Plantae	Adoxaceae	Sambucus nigra L.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580340158	Plantae	Lamiaceae	Salvia L.	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580340092	Animalia	Nymphalidae	Satyrus ferula (Fabricius, 1793) Fabricius, 1793	43.284321	17.09173	250	2017-06-12T02:00Z	12	6	2017
+1580339134	Animalia	Cerambycidae	Rutpela maculata (Poda, 1761)	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580338848	Plantae	Asparagaceae	Ruscus aculeatus L.	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1580338748	Plantae	Asparagaceae	Ruscus aculeatus L.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580338259	Plantae	Asparagaceae	Ruscus aculeatus L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580337838	Plantae	Rutaceae	Ruta graveolens L.	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580337832	Animalia	Cerambycidae	Rutpela maculata (Poda, 1761)	45.438725	14.852249	250	2017-06-09T02:00Z	9	6	2017
+1580337473	Animalia	Bovidae	Rupicapra rupicapra subsp. balcanica Bolkay, 1925	43.284321	17.09173	250	2017-06-12T02:00Z	12	6	2017
+1580337140	Plantae	Fabaceae	Robinia pseudoacacia L.	45.089458	14.120672	250	2017-05-17T02:00Z	17	5	2017
+1580336980	Plantae	Rosaceae	Rosa sempervirens L.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580335431	Animalia	Reduviidae	Rhynocoris iracundus (Poda, 1761)	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1580335418	Animalia	Geometridae	Rhodostrophia calabra Petagna, 1787	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1580334212	Animalia	Reduviidae	Rhynocoris annulatus (Linnaeus, 1758) Linnaeus, 1758	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580333936	Animalia	Geometridae	Rhodostrophia calabra Petagna, 1787	43.284321	17.09173	250	2017-06-12T02:00Z	12	6	2017
+1580333758	Plantae	Resedaceae	Reseda lutea L.	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1580332129	Plantae	Resedaceae	Reseda lutea L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580332079	Plantae	Resedaceae	Reseda lutea L.	45.087612	13.878181	250	2017-05-22T02:00Z	22	5	2017
+1580327928	Plantae	Fagaceae	Quercus ilex L.	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1580327892	Plantae	Fagaceae	Quercus ilex L.	44.87558	13.841143	250	2017-05-15T02:00Z	15	5	2017
+1580327761	Plantae	Fagaceae	Quercus ilex L.	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1580327373	Plantae	Fagaceae	Quercus ilex L.	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1580326918	Animalia	Corvidae	Pyrrhocorax graculus (Linnaeus, 1766)	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1580325867	Animalia	Pyrrhocoridae	Pyrrhocoris apterus (Linnaeus, 1758) Linnaeus, 1758	45.089458	14.120672	250	2017-05-17T02:00Z	17	5	2017
+1580324591	Animalia	Crambidae	Pyrausta despicata Scopoli, 1763	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580323294	Animalia	Corvidae	Pyrrhocorax graculus (Linnaeus, 1766)	43.242828	17.087532	250	2017-06-13T02:00Z	13	6	2017
+1580322653	Animalia	Corvidae	Pyrrhocorax graculus (Linnaeus, 1766)	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580322587	Animalia	Corvidae	Pyrrhocorax graculus (Linnaeus, 1766)	43.242828	17.087532	250	2017-06-11T02:00Z	11	6	2017
+1580321555	Plantae	Lythraceae	Punica granatum L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580319211	Plantae	Primulaceae	Primula veris Linnaeus	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1580319201	Animalia	Prunellidae	Prunella collaris (Scopoli, 1769)	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1580319200	Plantae	Rosaceae	Prunus prostrata Labill.	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1580317482	Animalia	Cetoniidae	Protaetia aeruginosa (Linnaeus, 1767) Linnaeus, 1767	45.094612	14.18886	250	2017-05-23T02:00Z	23	5	2017
+1580316149	Plantae	Lamiaceae	Prunella vulgaris L.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580316144	Plantae	Rosaceae	Prunus avium (L.) L.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580313631	Animalia	Prunellidae	Prunella collaris (Scopoli, 1769)	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580313517	Animalia	Prunellidae	Prunella collaris (Scopoli, 1769)	43.284321	17.09173	250	2017-06-12T02:00Z	12	6	2017
+1580312677	Plantae	Polygalaceae	Polygala comosa Schkuhr	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1580312557	Animalia	Lycaenidae	Polyommatus bellargus (Rottemburg, 1775)	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1580312542	Animalia	Lycaenidae	Polyommatus icarus (Rottemburg, 1775)	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1580311546	Animalia	Lacertidae	Podarcis melisellensis subsp. fiumana (Werner, 1891)	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1580310009	Animalia	Lycaenidae	Polyommatus icarus (Rottemburg, 1775)	45.094612	14.18886	250	2017-05-23T02:00Z	23	5	2017
+1580309997	Plantae	Rosaceae	Potentilla recta L.	45.094612	14.18886	250	2017-05-23T02:00Z	23	5	2017
+1580309984	Animalia	Lycaenidae	Polyommatus bellargus (Rottemburg, 1775)	45.094612	14.18886	250	2017-05-23T02:00Z	23	5	2017
+1580309110	Animalia	Lycaenidae	Polyommatus icarus (Rottemburg, 1775)	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580307902	Animalia	Lycaenidae	Polyommatus bellargus (Rottemburg, 1775)	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580307892	Animalia	Lycaenidae	Polyommatus icarus (Rottemburg, 1775)	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580307889	Plantae	Rosaceae	Potentilla recta L.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580307827	Animalia	Lacertidae	Podarcis melisellensis (Braun, 1877)	45.080399	14.144146	250	2017-05-26T02:00Z	26	5	2017
+1580307256	Animalia	Lycaenidae	Polyommatus icarus (Rottemburg, 1775)	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580307249	Animalia	Lacertidae	Podarcis melisellensis (Braun, 1877)	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580306946	Animalia	Lacertidae	Podarcis melisellensis subsp. fiumana (Werner, 1891)	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1580306942	Animalia	Lycaenidae	Polyommatus icarus (Rottemburg, 1775)	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1580305003	Animalia	Lacertidae	Podarcis melisellensis subsp. fiumana (Werner, 1891)	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580304209	Animalia	Lacertidae	Podarcis melisellensis (Braun, 1877)	43.242828	17.087532	250	2017-06-05T02:00Z	5	6	2017
+1580304178	Animalia	Pomatiidae	Pomatias elegans (O. F. Müller, 1774)	43.242828	17.087532	250	2017-06-05T02:00Z	5	6	2017
+1580304014	Animalia	Lacertidae	Podarcis melisellensis subsp. fiumana (Werner, 1891)	45.080399	14.144146	250	2017-05-25T02:00Z	25	5	2017
+1580303827	Animalia	Podicipedidae	Podiceps nigricollis C. L. Brehm, 1831	44.361046	15.151219	250	2017-05-30T02:00Z	30	5	2017
+1580303657	Animalia	Pieridae	Pontia edusa (Fabricius, 1777)	43.242828	17.087532	250	2017-06-08T02:00Z	8	6	2017
+1580302961	Animalia	Nymphalidae	Polygonia c-album Linnaeus, 1758	45.491428	14.691038	250	2017-06-12T02:00Z	12	6	2017
+1580301896	Plantae	Platanaceae	Platanus L.	44.87558	13.841143	250	2017-05-15T02:00Z	15	5	2017
+1580301260	Animalia	Lycaenidae	Plebejus idas (Linnaeus, 1761) Linnaeus, 1761	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580300837	Plantae	Plantaginaceae	Plantago coronopus L.	45.080399	14.144146	250	2017-05-26T02:00Z	26	5	2017
+1580299454	Animalia	Colubridae	Platyceps najadum (Eichwald, 1831)	43.242828	17.087532	250	2017-06-04T02:00Z	4	6	2017
+1580298520	Animalia	Pieridae	Pieris brassicae (Linnaeus, 1758)	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1580296648	Animalia	Pinnidae	Pinna nobilis Linnaeus, 1758	43.201672	17.126312	250	2017-06-14T02:00Z	14	6	2017
+1580296215	Plantae	Pinaceae	Pinus pinaster Aiton	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1580296200	Plantae	Pinaceae	Pinus halepensis Mill.	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1580295695	Animalia	Pinnidae	Pinna nobilis Linnaeus, 1758	43.222797	17.000879	250	2017-06-13T02:00Z	13	6	2017
+1580295307	Animalia	Picidae	Picoides tridactylus (Linnaeus, 1758)	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580294622	Plantae	Pinaceae	Pinus L.	45.089458	14.120672	250	2017-05-17T02:00Z	17	5	2017
+1580292577	Animalia	Pieridae	Pieris rapae (Linnaeus, 1758)	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1580291401	Plantae	Fabaceae	Pisum sativum L.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580287641	Plantae	Pinaceae	Pinus L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580287611	Plantae	Pittosporaceae	Pittosporum tobira (Murray) Aiton fil.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580286968	Plantae	Pinaceae	Pinus L.	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1580282243	Animalia	Pieridae	Pieris napi (Linnaeus, 1758)	45.089458	14.120672	250	2017-05-25T02:00Z	25	5	2017
+1580275482	Animalia	Phalacrocoracidae	Phalacrocorax aristotelis (Linnaeus, 1761)	43.201672	17.126312	250	2017-06-14T02:00Z	14	6	2017
+1580274345	Animalia	Trochidae	Phorcus turbinatus (Born, 1778)	43.222797	17.000879	250	2017-06-13T02:00Z	13	6	2017
+1580273283	Plantae	Arecaceae	Phoenix canariensis Chabaud	44.87558	13.841143	250	2017-05-15T02:00Z	15	5	2017
+1580270672	Animalia	Tettigoniidae	Pholidoptera griseoaptera (De Geer, 1773)	43.284321	17.09173	250	2017-06-10T02:00Z	10	6	2017
+1580265791	Animalia	Phalacrocoracidae	Phalacrocorax aristotelis (Linnaeus, 1761)	45.080399	14.144146	250	2017-05-26T02:00Z	26	5	2017
+1580264405	Plantae	Arecaceae	Phoenix canariensis Chabaud	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580258915	Animalia	Salticidae	Philaeus chrysops (Poda, 1761)	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580256441	Animalia	Phalacrocoracidae	Phalacrocorax aristotelis (Linnaeus, 1761)	45.080399	14.144146	250	2017-05-25T02:00Z	25	5	2017
+1580255953	Animalia	Phalacrocoracidae	Phalacrocorax pygmeus (Pallas, 1773)	44.361046	15.151219	250	2017-05-30T02:00Z	30	5	2017
+1580255899	Animalia	Salticidae	Philaeus chrysops (Poda, 1761)	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580255877	Animalia	Phylloscopidae	Phylloscopus collybita (Vieillot, 1817)	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580255873	Animalia	Tettigoniidae	Pholidoptera griseoaptera (De Geer, 1773)	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580255701	Animalia	Phalacrocoracidae	Phalacrocorax pygmeus (Pallas, 1773)	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580255627	Animalia	Phasianidae	Phasianus colchicus Linnaeus, 1758	43.242828	17.087532	250	2017-06-08T02:00Z	8	6	2017
+1580255541	Animalia	Muscicapidae	Phoenicurus ochruros (S. G. Gmelin, 1774)	43.284321	17.09173	250	2017-06-12T02:00Z	12	6	2017
+1580253855	Animalia	Phylloscopidae	Phylloscopus collybita (Vieillot, 1817)	43.258057	17.063749	250	2017-04-15T02:00Z	15	4	2017
+1580252939	Plantae	Apiaceae	Peucedanum longifolium Waldst. & Kit.	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1580250971	Animalia	Geometridae	Peribatodes rhomboidaria Denis & Schiffermüller, 1775	45.405193	14.799158	250	2017-06-10T02:00Z	10	6	2017
+1580250612	Animalia	Accipitridae	Pernis apivorus (Linnaeus, 1758)	43.242828	17.087532	250	2017-06-13T02:00Z	13	6	2017
+1580250163	Animalia	Geometridae	Peribatodes secundaria Denis & Schiffermüller, 1775	45.080399	14.144146	250	2017-05-17T02:00Z	17	5	2017
+1580249186	Animalia	Paridae	Parus major Linnaeus, 1758	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1580245883	Animalia	Passeridae	Passer domesticus (Linnaeus, 1758)	45.463352	14.853622	250	2017-06-10T02:00Z	10	6	2017
+1580243935	Animalia	Nymphalidae	Pararge aegeria Linnaeus, 1758	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1580242727	Animalia	Paguridae	Pagurus anachoretus Risso, 1827	43.222797	17.000879	250	2017-06-13T02:00Z	13	6	2017
+1580240832	Plantae	Urticaceae	Parietaria judaica L.	44.87558	13.841143	250	2017-05-15T02:00Z	15	5	2017
+1580240814	Plantae	Papaveraceae	Papaver rhoeas L.	44.87558	13.841143	250	2017-05-15T02:00Z	15	5	2017
+1580240794	Plantae	Paulowniaceae	Paulownia tomentosa (Thunb.) Steud.	44.87558	13.841143	250	2017-05-15T02:00Z	15	5	2017
+1580235474	Animalia	Nymphalidae	Pararge aegeria Linnaeus, 1758	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1580233382	Animalia	Paridae	Parus caeruleus Linnaeus, 1758	45.380669	14.821115	250	2017-06-11T02:00Z	11	6	2017
+1580232933	Animalia	Nymphalidae	Pararge aegeria Linnaeus, 1758	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580232909	Plantae	Urticaceae	Parietaria officinalis L.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580228719	Animalia	Paridae	Parus major Linnaeus, 1758	43.258057	17.063749	250	2017-04-13T02:00Z	13	4	2017
+1580227408	Animalia	Nymphalidae	Pararge aegeria Linnaeus, 1758	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580227349	Plantae	Papaveraceae	Papaver rhoeas L.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580225674	Animalia	Paridae	Parus caeruleus Linnaeus, 1758	44.87339	14.984264	250	2017-06-01T02:00Z	1	6	2017
+1580224473	Plantae	Urticaceae	Parietaria officinalis L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580224466	Plantae	Passifloraceae	Passiflora L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580224460	Plantae	Papaveraceae	Papaver rhoeas L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580223922	Plantae	Urticaceae	Parietaria judaica L.	45.087612	13.878181	250	2017-05-22T02:00Z	22	5	2017
+1580223113	Plantae	Urticaceae	Parietaria officinalis L.	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1580223077	Animalia	Paridae	Parus major Linnaeus, 1758	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1580219247	Animalia	Geometridae	Parectropis similaria (Hufnagel, 1767) Hufnagel, 1767	45.405193	14.799158	250	2017-06-11T02:00Z	11	6	2017
+1580214640	Animalia	Nymphalidae	Pararge aegeria subsp. aegeria	43.286812	17.023058	250	2017-04-14T02:00Z	14	4	2017
+1580214617	Animalia	Paridae	Parus major Linnaeus, 1758	43.286812	17.023058	250	2017-04-14T02:00Z	14	4	2017
+1580214351	Animalia	Papilionidae	Papilio machaon Linnaeus, 1758	43.263351	17.057098	250	2017-04-14T02:00Z	14	4	2017
+1580212555	Plantae	Papaveraceae	Papaver rhoeas L.	45.089458	14.120672	250	2017-05-25T02:00Z	25	5	2017
+1580211136	Animalia	Passeridae	Passer hispaniolensis (Temminck, 1820)	44.140591	15.156281	250	2017-06-17T02:00Z	17	6	2017
+1580210259	Animalia	Passeridae	Passer domesticus (Linnaeus, 1758)	43.242828	17.087532	250	2017-06-04T02:00Z	4	6	2017
+1580208971	Animalia	Papilionidae	Parnassius mnemosyne (Linnaeus, 1758)	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580208934	Animalia	Nymphalidae	Pararge aegeria Linnaeus, 1758	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580208349	Animalia	Papilionidae	Papilio machaon Linnaeus, 1758	43.284321	17.09173	250	2017-06-12T02:00Z	12	6	2017
+1580206300	Animalia	Psychidae	Pachythelia villosella Ochsenheimer, 1810	43.242828	17.087532	250	2017-04-16T02:00Z	16	4	2017
+1580205915	Animalia	Nymphalidae	Pararge aegeria Linnaeus, 1758	45.491428	14.691038	250	2017-06-12T02:00Z	12	6	2017
+1580205203	Animalia	Passeridae	Passer domesticus (Linnaeus, 1758)	43.258057	17.063749	250	2017-04-15T02:00Z	15	4	2017
+1580205127	Animalia	Passeridae	Passer hispaniolensis (Temminck, 1820)	43.258057	17.063749	250	2017-04-15T02:00Z	15	4	2017
+1580205112	Animalia	Paridae	Parus major Linnaeus, 1758	43.258057	17.063749	250	2017-04-15T02:00Z	15	4	2017
+1580203478	Animalia	Cetoniidae	Oxythyrea funesta (Poda, 1761)	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1580203326	Animalia	Cetoniidae	Oxythyrea funesta (Poda, 1761)	45.094612	14.18886	250	2017-05-23T02:00Z	23	5	2017
+1580203005	Animalia	Cetoniidae	Oxythyrea funesta (Poda, 1761)	43.242828	17.087532	250	2017-06-05T02:00Z	5	6	2017
+1580202927	Plantae	Oxalidaceae	Oxalis articulata Savigny	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580202558	Animalia	Strigidae	Otus scops (Linnaeus, 1758)	43.242828	17.087532	250	2017-06-13T02:00Z	13	6	2017
+1580202546	Animalia	Curculionidae	Otiorhynchus gemmatus (Scopoli, 1763)	45.438725	14.852249	250	2017-06-09T02:00Z	9	6	2017
+1580202496	Animalia	Curculionidae	Otiorhynchus gemmatus (Scopoli, 1763)	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580202437	Animalia	Curculionidae	Otiorhynchus gemmatus (Scopoli, 1763)	45.491428	14.691038	250	2017-06-12T02:00Z	12	6	2017
+1580202072	Plantae	Santalaceae	Osyris alba L.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580201945	Plantae	Santalaceae	Osyris alba L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580201935	Plantae	Betulaceae	Ostrya carpinifolia Scop.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1580201853	Plantae	Asparagaceae	Ornithogalum narbonense L.	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1580201803	Plantae	Apiaceae	Orlaya grandiflora (L.) Hoffm.	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1580200751	Plantae	Asparagaceae	Ornithogalum narbonense L.	45.094612	14.18886	250	2017-05-23T02:00Z	23	5	2017
+1580200455	Plantae	Asparagaceae	Ornithogalum narbonense L.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580199980	Plantae	Asparagaceae	Ornithogalum narbonense L.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580199925	Animalia	Libellulidae	Orthetrum Selys, 1848	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580199815	Animalia	Oriolidae	Oriolus oriolus (Linnaeus, 1758)	44.412693	15.089207	250	2017-05-29T02:00Z	29	5	2017
+1580199734	Plantae	Apiaceae	Orlaya grandiflora (L.) Hoffm.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580199603	Plantae	Apiaceae	Orlaya grandiflora (L.) Hoffm.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1580198521	Animalia	Oriolidae	Oriolus oriolus (Linnaeus, 1758)	43.242828	17.087532	250	2017-06-05T02:00Z	5	6	2017
+1580198332	Plantae	Asparagaceae	Ornithogalum umbellatum L.	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580198310	Animalia	Leporidae	Oryctolagus cuniculus (Linnaeus, 1758)	43.242828	17.087532	250	2017-06-11T02:00Z	11	6	2017
+1580198301	Animalia	Oriolidae	Oriolus oriolus (Linnaeus, 1758)	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580197226	Plantae	Cactaceae	Opuntia ficus-indica (L.) Mill.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580197048	Plantae	Cactaceae	Opuntia ficus-indica (L.) Mill.	45.080399	14.144146	250	2017-05-31T02:00Z	31	5	2017
+1580196987	Plantae	Orchidaceae	Ophrys fuciflora subsp. tetraloniae (W.P.Teschner) Faurh.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580196606	Plantae	Orchidaceae	Ophrys oestrifera subsp. oestrifera	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580196594	Plantae	Orchidaceae	Ophrys holoserica subsp. holubyana (András.) Kreutz	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580196346	Plantae	Orchidaceae	Ophrys fuciflora subsp. tetraloniae (W.P.Teschner) Faurh.	45.034351	14.15657	250	2017-05-16T02:00Z	16	5	2017
+1580195854	Plantae	Fabaceae	Onobrychis viciifolia Scop.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580195150	Plantae	Oleaceae	Olea europaea L.	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1580195031	Plantae	Oleaceae	Olea europaea L.	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1580193528	Animalia	Muscicapidae	Oenanthe oenanthe (Linnaeus, 1758)	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580193496	Animalia	Muscicapidae	Oenanthe hispanica (Linnaeus, 1758)	43.284321	17.09173	250	2017-06-12T02:00Z	12	6	2017
+1580192718	Animalia	Noctuidae	Ochropleura plecta Linnaeus, 1761	45.405193	14.799158	250	2017-06-12T02:00Z	12	6	2017
+1580189596	Plantae	Ranunculaceae	Nigella damascena L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580188877	Animalia	Adelidae	Nemophora metallica (Poda, 1761) Poda, 1761	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580188330	Plantae	Apocynaceae	Nerium oleander L.	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1580187866	Plantae	Apocynaceae	Nerium oleander L.	45.080399	14.144146	250	2017-05-23T02:00Z	23	5	2017
+1580187672	Plantae	Amaryllidaceae	Narcissus poeticus L.	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1580183648	Plantae	Musaceae	Musa paradisiaca L.	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1580183389	Plantae	Asparagaceae	Muscari comosum (L.) Mill.	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580183249	Plantae	Asparagaceae	Muscari comosum (L.) Mill.	45.080399	14.144146	250	2017-05-23T02:00Z	23	5	2017
+1580182875	Animalia	Motacillidae	Motacilla cinerea Tunstall, 1771	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1580181254	Plantae	Moraceae	Morus nigra L.	45.089458	14.120672	250	2017-05-17T02:00Z	17	5	2017
+1580179829	Animalia	Hygromiidae	Monacha cartusiana (Müller, 1774)	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580178498	Animalia	Motacillidae	Motacilla flava subsp. feldegg Michahelles, 1830	44.412693	15.089207	250	2017-05-29T02:00Z	29	5	2017
+1580178458	Animalia	Motacillidae	Motacilla alba Linnaeus, 1758	44.412693	15.089207	250	2017-05-29T02:00Z	29	5	2017
+1580176004	Plantae	Moraceae	Morus nigra L.	45.089458	14.120672	250	2017-05-25T02:00Z	25	5	2017
+1580175591	Animalia	Motacillidae	Motacilla alba Linnaeus, 1758	43.242828	17.087532	250	2017-06-04T02:00Z	4	6	2017
+1580175282	Animalia	Motacillidae	Motacilla flava subsp. feldegg Michahelles, 1830	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580174645	Animalia	Motacillidae	Motacilla cinerea Tunstall, 1771	45.491428	14.691038	250	2017-06-12T02:00Z	12	6	2017
+1580173001	Animalia	Cecidomyiidae	Mikiola fagi (Hartig, 1839)	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580167008	Animalia	Nymphalidae	Melanargia galathea Linnaeus, 1758	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1580165128	Plantae	Fabaceae	Melilotus indicus (L.) All.	45.094612	14.18886	250	2017-05-23T02:00Z	23	5	2017
+1580164526	Plantae	Fabaceae	Melilotus neapolitanus Ten.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580164520	Animalia	Nymphalidae	Melitaea phoebe Denis & Schiffermüller, 1775	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580164499	Animalia	Nymphalidae	Melitaea cinxia Linnaeus, 1758	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580163600	Animalia	Nymphalidae	Melitaea phoebe Denis & Schiffermüller, 1775	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580163581	Animalia	Syrphidae	Merodon equestris (Fabricius, 1794)	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580160563	Animalia	Nymphalidae	Melanargia galathea Linnaeus, 1758	43.284321	17.09173	250	2017-06-12T02:00Z	12	6	2017
+1580159751	Animalia	Nymphalidae	Maniola jurtina Linnaeus, 1758	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1580159321	Animalia	Lasiocampidae	Macrothylacia rubi Linnaeus, 1758	45.405193	14.799158	250	2017-06-09T02:00Z	9	6	2017
+1580157997	Animalia	Nymphalidae	Maniola jurtina Linnaeus, 1758	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580157165	Plantae	Magnoliaceae	Magnolia grandiflora L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580157144	Animalia	Sphingidae	Macroglossum stellatarum Linnaeus, 1758	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580156983	Plantae	Malvaceae	Malva sylvestris L.	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1580155413	Plantae	Malvaceae	Malva sylvestris L.	45.080399	14.144146	250	2017-05-17T02:00Z	17	5	2017
+1580154406	Animalia	Lycaenidae	Lycaena virgaureae (Linnaeus, 1758) Linnaeus, 1758	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580154393	Animalia	Lycaenidae	Lycaena alciphron (Rottemburg, 1775)	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580153916	Animalia	Lycaenidae	Lycaenidae	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580153636	Animalia	Lycaenidae	Lycaena helle (Denis & Schiffermuller, 1775) Denis & Schiffermuller, 1775	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580152687	Animalia	Lycaenidae	Lycaena phlaeas (Linnaeus, 1761)	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580152204	Animalia	Muscicapidae	Luscinia megarhynchos C. L. Brehm, 1831	43.242828	17.087532	250	2017-06-14T02:00Z	14	6	2017
+1580150105	Animalia	Muscicapidae	Luscinia megarhynchos C. L. Brehm, 1831	43.242828	17.087532	250	2017-06-04T02:00Z	4	6	2017
+1580149994	Animalia	Muscicapidae	Luscinia megarhynchos C. L. Brehm, 1831	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580149990	Animalia	Muscicapidae	Luscinia megarhynchos C. L. Brehm, 1831	43.284321	17.09173	250	2017-06-12T02:00Z	12	6	2017
+1580149972	Animalia	Muscicapidae	Luscinia megarhynchos C. L. Brehm, 1831	43.242828	17.087532	250	2017-06-11T02:00Z	11	6	2017
+1580149919	Animalia	Muscicapidae	Luscinia megarhynchos C. L. Brehm, 1831	43.258057	17.063749	250	2017-04-15T02:00Z	15	4	2017
+1580149328	Fungi	Lobariaceae	Lobaria pulmonaria (L.) Hoffm.	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580149006	Plantae	Caprifoliaceae	Lonicera etrusca G. Santi	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1580149003	Plantae	Fabaceae	Lotus cytisoides L.	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1580148881	Plantae	Fabaceae	Lotus cytisoides L.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580147916	Plantae	Caprifoliaceae	Lonicera etrusca G. Santi	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580147257	Animalia	Ascalaphidae	Libelloides macaronius (Scopoli, 1763)	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1580147254	Animalia	Nymphalidae	Limenitis reducta Staudinger, 1901	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1580145686	Plantae	Magnoliaceae	Liriodendron tulipifera L.	45.080399	14.144146	250	2017-05-16T02:00Z	16	5	2017
+1580144761	Plantae	Liliaceae	Lilium martagon L.	45.438725	14.852249	250	2017-06-09T02:00Z	9	6	2017
+1580144743	Animalia	Nymphalidae	Limenitis reducta Staudinger, 1901	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580144312	Animalia	Nymphalidae	Limenitis reducta Staudinger, 1901	45.080399	14.144146	250	2017-05-17T02:00Z	17	5	2017
+1580144132	Plantae	Orchidaceae	Limodorum abortivum (L.) Sw.	45.066006	14.140863	250	2017-06-01T02:00Z	1	6	2017
+1580142609	Animalia	Tettigoniidae	Leptophyes punctatissima (Bosc, 1792)	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1580142373	Animalia	Tettigoniidae	Leptophyes punctatissima (Bosc, 1792)	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580140700	Animalia	Tettigoniidae	Leptophyes punctatissima (Bosc, 1792)	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580139360	Animalia	Laniidae	Lanius collurio Linnaeus, 1758	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1580139099	Animalia	Laridae	Larus michahellis J. F. Naumann, 1840	45.080399	14.144146	250	2017-05-21T02:00Z	21	5	2017
+1580137349	Animalia	Laridae	Larus michahellis J. F. Naumann, 1840	44.87558	13.841143	250	2017-05-15T02:00Z	15	5	2017
+1580136097	Animalia	Nymphalidae	Lasiommata megera (Linnaeus, 1767) Linnaeus, 1767	43.284321	17.09173	250	2017-06-10T02:00Z	10	6	2017
+1580136093	Animalia	Lacertidae	Lacerta trilineata Bedriaga, 1886	43.284321	17.09173	250	2017-06-10T02:00Z	10	6	2017
+1580136037	Animalia	Laridae	Larus michahellis J. F. Naumann, 1840	43.26226	17.059801	250	2017-04-14T02:00Z	14	4	2017
+1580135976	Animalia	Nymphalidae	Lasiommata megera (Linnaeus, 1767) Linnaeus, 1767	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1580135282	Animalia	Nymphalidae	Lasiommata megera (Linnaeus, 1767) Linnaeus, 1767	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580135281	Plantae	Fabaceae	Lathyrus aphaca L.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580135274	Plantae	Fabaceae	Lathyrus latifolius L.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580135271	Animalia	Nymphalidae	Lasiommata maera (Linnaeus, 1758) Linnaeus, 1758	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580133910	Animalia	Nymphalidae	Lasiommata maera (Linnaeus, 1758) Linnaeus, 1758	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580133894	Plantae	Fabaceae	Lathyrus L.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580133869	Animalia	Nymphalidae	Lasiommata megera (Linnaeus, 1767) Linnaeus, 1767	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580133497	Animalia	Laniidae	Lanius collurio Linnaeus, 1758	44.87339	14.984264	250	2017-06-01T02:00Z	1	6	2017
+1580133418	Animalia	Laniidae	Lanius senator Linnaeus, 1758	44.412693	15.089207	250	2017-05-29T02:00Z	29	5	2017
+1580133417	Animalia	Laniidae	Lanius collurio Linnaeus, 1758	44.412693	15.089207	250	2017-05-29T02:00Z	29	5	2017
+1580133166	Plantae	Lauraceae	Laurus nobilis L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580132849	Plantae	Fabaceae	Lathyrus L.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1580132846	Plantae	Lauraceae	Laurus nobilis L.	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1580132814	Animalia	Laridae	Larus michahellis J. F. Naumann, 1840	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1580132413	Animalia	Noctuidae	Lacanobia wlatinum Hufnagel, 1766	45.405193	14.799158	250	2017-06-10T02:00Z	10	6	2017
+1580132106	Animalia	Laridae	Larus michahellis J. F. Naumann, 1840	45.080399	14.144146	250	2017-05-14T02:00Z	14	5	2017
+1580131780	Animalia	Laniidae	Lanius collurio Linnaeus, 1758	45.419903	14.706059	250	2017-06-11T02:00Z	11	6	2017
+1580130598	Animalia	Lacertidae	Lacerta Linnaeus, 1758	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580130586	Animalia	Nymphalidae	Lasiommata megera (Linnaeus, 1767) Linnaeus, 1767	43.286812	17.023058	250	2017-04-14T02:00Z	14	4	2017
+1580130562	Animalia	Laridae	Larus michahellis J. F. Naumann, 1840	43.263351	17.057098	250	2017-04-14T02:00Z	14	4	2017
+1580130525	Animalia	Nymphalidae	Lasiommata megera (Linnaeus, 1767) Linnaeus, 1767	43.263351	17.057098	250	2017-04-14T02:00Z	14	4	2017
+1580130073	Animalia	Nymphalidae	Lasiommata megera (Linnaeus, 1767) Linnaeus, 1767	45.089458	14.120672	250	2017-05-25T02:00Z	25	5	2017
+1580129636	Animalia	Lacertidae	Lacerta Linnaeus, 1758	43.242828	17.087532	250	2017-06-05T02:00Z	5	6	2017
+1580129508	Animalia	Laniidae	Lanius collurio Linnaeus, 1758	43.242828	17.087532	250	2017-06-04T02:00Z	4	6	2017
+1580129506	Animalia	Laridae	Larus michahellis J. F. Naumann, 1840	43.242828	17.087532	250	2017-06-04T02:00Z	4	6	2017
+1580129428	Animalia	Laridae	Larus michahellis J. F. Naumann, 1840	45.080399	14.144146	250	2017-05-23T02:00Z	23	5	2017
+1580129187	Animalia	Laridae	Larus michahellis J. F. Naumann, 1840	44.361046	15.151219	250	2017-05-30T02:00Z	30	5	2017
+1580129100	Animalia	Laridae	Larus michahellis J. F. Naumann, 1840	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580129096	Animalia	Laniidae	Lanius collurio Linnaeus, 1758	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580129095	Animalia	Laridae	Larus michahellis J. F. Naumann, 1840	45.080399	14.144146	250	2017-05-17T02:00Z	17	5	2017
+1580129073	Animalia	Laniidae	Lanius senator Linnaeus, 1758	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580129039	Animalia	Laniidae	Lanius collurio Linnaeus, 1758	43.242828	17.087532	250	2017-06-11T02:00Z	11	6	2017
+1580128356	Fungi	Fomitopsidaceae	Laetiporus sulphureus (Bull.) Murrill, 1920	45.491428	14.691038	250	2017-06-12T02:00Z	12	6	2017
+1580127679	Plantae	Dipsacaceae	Knautia arvensis (L.) Coult.	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1580127471	Plantae	Xanthorrhoeaceae	Kniphofia Moench	45.080399	14.144146	250	2017-05-23T02:00Z	23	5	2017
+1580127364	Plantae	Xanthorrhoeaceae	Kniphofia Moench	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580126674	Plantae	Cupressaceae	Juniperus oxycedrus L.	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1580126563	Plantae	Cupressaceae	Juniperus oxycedrus L.	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1580126064	Plantae	Asteraceae	Jacobaea maritima (L.) Pelser & Meijden	45.080399	14.144146	250	2017-05-23T02:00Z	23	5	2017
+1580125423	Animalia	Nymphalidae	Issoria lathonia Linnaeus, 1758	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1580124364	Animalia	Papilionidae	Iphiclides podalirius (Linnaeus, 1758)	43.242828	17.087532	250	2017-06-07T02:00Z	7	6	2017
+1580124359	Animalia	Papilionidae	Iphiclides podalirius (Linnaeus, 1758)	45.089458	14.120672	250	2017-05-25T02:00Z	25	5	2017
+1580124338	Animalia	Papilionidae	Iphiclides podalirius (Linnaeus, 1758)	44.87558	13.841143	250	2017-05-15T02:00Z	15	5	2017
+1580124312	Animalia	Papilionidae	Iphiclides podalirius (Linnaeus, 1758)	43.26226	17.059801	250	2017-04-19T02:00Z	19	4	2017
+1580124101	Plantae	Asteraceae	Inula verbascifolia (Willd.) Hausskn.	43.284321	17.09173	250	2017-06-15T02:00Z	15	6	2017
+1580123448	Plantae	Aquifoliaceae	Ilex aquifolium L.	45.080399	14.144146	250	2017-05-23T02:00Z	23	5	2017
+1580122669	Animalia	Geometridae	Idaea aversata Linnaeus, 1758	43.242828	17.087532	250	2017-06-05T02:00Z	5	6	2017
+1580121972	Animalia	Lacertidae	Iberolacerta horvathi (Méhely, 1904)	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580121900	Animalia	Hygromiidae	Hygromia cinctella Draparnaud, 1801	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1580119074	Animalia	Holothuriidae	Holothuria forskali Delle Chiaje, 1823	43.222797	17.000879	250	2017-06-13T02:00Z	13	6	2017
+1580119020	Animalia	Holothuriidae	Holothuria tubulosa Gmelin, 1791	43.222797	17.000879	250	2017-06-13T02:00Z	13	6	2017
+1580118398	Animalia	Hirundinidae	Hirundo rupestris Scopoli, 1769	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1580118220	Animalia	Hirundinidae	Hirundo rustica Linnaeus, 1758	45.080399	14.144146	250	2017-05-21T02:00Z	21	5	2017
+1580116822	Animalia	Hirundinidae	Hirundo rustica Linnaeus, 1758	43.26226	17.059801	250	2017-04-14T02:00Z	14	4	2017
+1580115522	Animalia	Hirundinidae	Hirundo rustica Linnaeus, 1758	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580114778	Animalia	Hirundinidae	Hirundo rustica Linnaeus, 1758	43.242828	17.087532	250	2017-06-07T02:00Z	7	6	2017
+1580114350	Animalia	Hirundinidae	Hirundo rustica Linnaeus, 1758	43.263351	17.057098	250	2017-04-14T02:00Z	14	4	2017
+1580113877	Animalia	Hirundinidae	Hirundo rustica Linnaeus, 1758	43.242828	17.087532	250	2017-06-04T02:00Z	4	6	2017
+1580113863	Animalia	Hirundinidae	Hirundo rustica Linnaeus, 1758	45.080399	14.144146	250	2017-05-23T02:00Z	23	5	2017
+1580113755	Animalia	Recurvirostridae	Himantopus himantopus (Linnaeus, 1758)	44.361046	15.151219	250	2017-05-30T02:00Z	30	5	2017
+1580113709	Animalia	Hirundinidae	Hirundo rustica Linnaeus, 1758	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580113680	Animalia	Nymphalidae	Hipparchia semele Linnaeus, 1758	43.284321	17.09173	250	2017-06-12T02:00Z	12	6	2017
+1580113343	Animalia	Hirundinidae	Hirundo rustica Linnaeus, 1758	43.258057	17.063749	250	2017-04-15T02:00Z	15	4	2017
+1580111319	Plantae	Araliaceae	Hedera helix L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580111311	Plantae	Asteraceae	Helichrysum Mill.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580110543	Animalia	Helicidae	Helix pomatia Linnaeus, 1758	45.438725	14.852249	250	2017-06-09T02:00Z	9	6	2017
+1580109284	Animalia	Haliotidae	Haliotis tuberculata Linnaeus, 1758	43.222797	17.000879	250	2017-06-13T02:00Z	13	6	2017
+1580105828	Plantae	Orchidaceae	Gymnadenia conopsea (L.) R.Br.	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580098797	Animalia	Pieridae	Gonepteryx rhamni (Linnaeus, 1758)	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580095951	Animalia	Pieridae	Gonepteryx rhamni (Linnaeus, 1758)	43.258057	17.063749	250	2017-04-15T02:00Z	15	4	2017
+1580095873	Animalia	Pieridae	Gonepteryx rhamni (Linnaeus, 1758)	43.284321	17.09173	250	2017-06-12T02:00Z	12	6	2017
+1580095464	Plantae	Plantaginaceae	Globularia cordifolia L.	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1580095243	Animalia	Lycaenidae	Glaucopsyche alexis (Poda von Neuhaus, 1761)	43.258057	17.063749	250	2017-04-19T02:00Z	19	4	2017
+1580095170	Plantae	Iridaceae	Gladiolus illyricus W.D.J.Koch	45.094612	14.18886	250	2017-05-23T02:00Z	23	5	2017
+1580094649	Plantae	Iridaceae	Gladiolus illyricus W.D.J.Koch	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580094488	Plantae	Iridaceae	Gladiolus italicus Mill.	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580093944	Plantae	Geraniaceae	Geranium robertianum L.	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1580092594	Plantae	Geraniaceae	Geranium molle L.	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1580092008	Plantae	Geraniaceae	Geranium robertianum L.	45.089458	14.120672	250	2017-05-25T02:00Z	25	5	2017
+1580091280	Animalia	Corvidae	Garrulus glandarius (Linnaeus, 1758)	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1580085581	Animalia	Corvidae	Garrulus glandarius (Linnaeus, 1758)	43.258057	17.063749	250	2017-04-13T02:00Z	13	4	2017
+1580084699	Animalia	Alaudidae	Galerida cristata (Linnaeus, 1758)	44.412693	15.089207	250	2017-05-29T02:00Z	29	5	2017
+1580084422	Animalia	Corvidae	Garrulus glandarius (Linnaeus, 1758)	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580081096	Animalia	Corvidae	Garrulus glandarius (Linnaeus, 1758)	45.089458	14.120672	250	2017-05-25T02:00Z	25	5	2017
+1580080155	Animalia	Alaudidae	Galerida cristata (Linnaeus, 1758)	44.361046	15.151219	250	2017-05-30T02:00Z	30	5	2017
+1580075319	Plantae	Papaveraceae	Fumaria capreolata L.	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1580073583	Animalia	Rallidae	Fulica atra Linnaeus, 1758	44.361046	15.151219	250	2017-05-30T02:00Z	30	5	2017
+1580073540	Animalia	Rallidae	Fulica atra Linnaeus, 1758	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580072724	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1580070967	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580068785	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580067756	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	43.258057	17.063749	250	2017-04-13T02:00Z	13	4	2017
+1580067061	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	44.87339	14.984264	250	2017-06-01T02:00Z	1	6	2017
+1580064336	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	43.286812	17.023058	250	2017-04-14T02:00Z	14	4	2017
+1580064264	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	45.438725	14.852249	250	2017-06-09T02:00Z	9	6	2017
+1580063204	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	45.080399	14.144146	250	2017-05-23T02:00Z	23	5	2017
+1580062928	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580062030	Animalia	Fringillidae	Fringilla coelebs Linnaeus, 1758	45.491428	14.691038	250	2017-06-12T02:00Z	12	6	2017
+1580061538	Fungi	Fomitopsidaceae	Fomitopsis pinicola (Sw.) P. Karst., 1881	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580060856	Plantae	Apiaceae	Foeniculum vulgare Mill.	43.242828	17.087532	250	2017-06-05T02:00Z	5	6	2017
+1580060330	Plantae	Moraceae	Ficus carica L.	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1580060229	Plantae	Moraceae	Ficus carica L.	45.089458	14.120672	250	2017-05-17T02:00Z	17	5	2017
+1580059092	Plantae	Moraceae	Ficus carica L.	45.089458	14.120672	250	2017-05-25T02:00Z	25	5	2017
+1580058550	Animalia	Felidae	Felis domestica Brisson, 1762	45.089458	14.120672	250	2017-05-25T02:00Z	25	5	2017
+1580058373	Plantae	Apiaceae	Ferula communis L.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580057430	Animalia	Falconidae	Falco peregrinus Tunstall, 1771	43.201672	17.126312	250	2017-06-14T02:00Z	14	6	2017
+1580053949	Animalia	Falconidae	Falco naumanni Fleischer, 1818	44.87339	14.984264	250	2017-06-01T02:00Z	1	6	2017
+1580050799	Animalia	Falconidae	Falco naumanni Fleischer, 1818	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580049373	Animalia	Noctuidae	Euclidia mi (Clerck, 1759) Clerck, 1759	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1580048840	Animalia	Nymphalidae	Euphydryas aurinia (Rottemburg, 1775) Rottemburg, 1775	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580048347	Plantae	Euphorbiaceae	Euphorbia fragifera Jan	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1580048094	Plantae	Celastraceae	Euonymus L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580048034	Plantae	Euphorbiaceae	Euphorbia peplus L.	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1580047768	Animalia	Geometridae	Eupithecia venosata Fabricius, 1787	45.405193	14.799158	250	2017-06-11T02:00Z	11	6	2017
+1580047341	Plantae	Euphorbiaceae	Euphorbia paralias L.	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1580046183	Plantae	Liliaceae	Erythronium dens-canis L.	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1580044051	Animalia	Muscicapidae	Erithacus Cuvier, 1800	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580044033	Animalia	Nymphalidae	Erebia medusa Schiffermüller, 1775	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580044027	Plantae	Cyperaceae	Eriophorum latifolium Hoppe	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580043629	Plantae	Rosaceae	Eriobotrya japonica (Thunb.) Lindl.	44.87558	13.841143	250	2017-05-15T02:00Z	15	5	2017
+1580042594	Plantae	Ericaceae	Erica arborea L.	45.094612	14.18886	250	2017-05-23T02:00Z	23	5	2017
+1580039237	Plantae	Rosaceae	Eriobotrya japonica (Thunb.) Lindl.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580034015	Animalia	Muscicapidae	Erithacus Cuvier, 1800	45.491428	14.691038	250	2017-06-12T02:00Z	12	6	2017
+1580033910	Animalia	Muscicapidae	Erithacus Cuvier, 1800	43.258057	17.063749	250	2017-04-15T02:00Z	15	4	2017
+1580033199	Animalia	Equidae	Equus asinus Linnaeus, 1758	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1580032158	Animalia	Geometridae	Epirrhoe alternata Müller, 1794	45.066006	14.140863	250	2017-05-18T02:00Z	18	5	2017
+1580028808	Animalia	Geometridae	Ematurga atomaria Linnaeus, 1758	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1580027955	Animalia	Emberizidae	Emberiza cirlus Linnaeus, 1766	45.094612	14.18886	250	2017-05-23T02:00Z	23	5	2017
+1580026580	Animalia	Emberizidae	Emberiza cirlus Linnaeus, 1766	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580026309	Animalia	Emberizidae	Emberiza hortulana Linnaeus, 1758	44.87339	14.984264	250	2017-06-01T02:00Z	1	6	2017
+1580023474	Animalia	Emberizidae	Emberiza cia Linnaeus, 1766	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1580023449	Animalia	Emydidae	Emys orbicularis (Linnaeus, 1758)	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580023448	Animalia	Emberizidae	Emberiza melanocephala Scopoli, 1769	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580023439	Animalia	Emberizidae	Emberiza calandra Linnaeus, 1758	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580023412	Animalia	Emberizidae	Emberiza cia Linnaeus, 1766	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1580023350	Animalia	Emberizidae	Emberiza cirlus Linnaeus, 1766	43.284321	17.09173	250	2017-06-12T02:00Z	12	6	2017
+1580018687	Animalia	Ardeidae	Egretta garzetta (Linnaeus, 1766)	44.140591	15.156281	250	2017-06-19T02:00Z	19	6	2017
+1580018666	Animalia	Ardeidae	Egretta alba (Linnaeus, 1758)	44.140591	15.156281	250	2017-06-19T02:00Z	19	6	2017
+1580017166	Animalia	Ardeidae	Egretta garzetta (Linnaeus, 1766)	44.361046	15.151219	250	2017-05-30T02:00Z	30	5	2017
+1580016367	Animalia	Trachinidae	Echiichthys vipera (Cuvier, 1829)	43.222797	17.000879	250	2017-06-13T02:00Z	13	6	2017
+1580015297	Plantae	Brassicaceae	Draba lasiocarpa Rochel	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1580014514	Plantae	Asparagaceae	Drimia maritima (L.) Stearn	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1580013537	Plantae	Fabaceae	Dorycnium pentaphyllum Scop.	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1580013374	Plantae	Fabaceae	Dorycnium pentaphyllum Scop.	45.066006	14.140863	250	2017-06-01T02:00Z	1	6	2017
+1580012778	Animalia	Sparidae	Diplodus sargus (Linnaeus, 1758)	44.87558	13.841143	250	2017-05-15T02:00Z	15	5	2017
+1580011966	Plantae	Dioscoreaceae	Dioscorea communis (L.) Caddick & Wilkin	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1580011820	Animalia	Arctiidae	Diacrisia sannio (Linnaeus, 1758) Linnaeus, 1758	45.405193	14.799158	250	2017-06-10T02:00Z	10	6	2017
+1580011266	Plantae	Brassicaceae	Diplotaxis tenuifolia (L.) DC.	45.080399	14.144146	250	2017-05-23T02:00Z	23	5	2017
+1580010005	Animalia	Sphingidae	Deilephila porcellus Linnaeus, 1758	45.405193	14.799158	250	2017-06-13T02:00Z	13	6	2017
+1580007832	Animalia	Hirundinidae	Delichon urbicum (Linnaeus, 1758)	43.26226	17.059801	250	2017-04-14T02:00Z	14	4	2017
+1580005042	Animalia	Hirundinidae	Delichon urbicum (Linnaeus, 1758)	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1580004035	Animalia	Sphingidae	Deilephila elpenor Linnaeus, 1746	45.405193	14.799158	250	2017-06-11T02:00Z	11	6	2017
+1580002556	Animalia	Sphingidae	Deilephila porcellus Linnaeus, 1758	45.405193	14.799158	250	2017-06-12T02:00Z	12	6	2017
+1580001994	Animalia	Hirundinidae	Delichon urbicum (Linnaeus, 1758)	43.242828	17.087532	250	2017-06-04T02:00Z	4	6	2017
+1580001683	Animalia	Hirundinidae	Delichon urbicum (Linnaeus, 1758)	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1579998664	Animalia	Lycaenidae	Cyaniris semiargus (Rottemburg, 1775)	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1579997838	Plantae	Primulaceae	Cyclamen repandum Auct. ex Knuth	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1579997153	Plantae	Plantaginaceae	Cymbalaria muralis P. Gaertn., B. Mey. & Scherb.	45.089458	14.120672	250	2017-05-17T02:00Z	17	5	2017
+1579992731	Plantae	Primulaceae	Cyclamen repandum Auct. ex Knuth	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1579992298	Animalia	Arctiidae	Cybosia mesomella Linnaeus, 1758	45.405193	14.799158	250	2017-06-12T02:00Z	12	6	2017
+1579991860	Plantae	Plantaginaceae	Cymbalaria muralis P. Gaertn., B. Mey. & Scherb.	45.080399	14.144146	250	2017-05-23T02:00Z	23	5	2017
+1579991761	Animalia	Anatidae	Cygnus olor (Gmelin, 1789)	44.361046	15.151219	250	2017-05-30T02:00Z	30	5	2017
+1579990434	Plantae	Cupressaceae	Cupressus sempervirens L.	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1579990289	Plantae	Cupressaceae	Cupressus sempervirens L.	44.87558	13.841143	250	2017-05-15T02:00Z	15	5	2017
+1579989281	Plantae	Cupressaceae	Cupressus sempervirens L.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1579988654	Animalia	Cuculidae	Cuculus canorus Linnaeus, 1758	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1579988406	Animalia	Cuculidae	Cuculus canorus Linnaeus, 1758	45.491428	14.691038	250	2017-06-12T02:00Z	12	6	2017
+1579988236	Plantae	Iridaceae	Crocus vernus (L.) Hill	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1579986503	Animalia	Curculionidae	Cryptocephalus bipunctatus (Linnaeus, 1758) Linnaeus, 1758	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1579985360	Plantae	Papaveraceae	Corydalis solida (L.) Clairv.	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1579984942	Animalia	Nymphalidae	Coenonympha arcania Linnaeus, 1761	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1579984490	Animalia	Nymphalidae	Coenonympha pamphilus Linnaeus, 1758	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1579978833	Animalia	Conidae	Conus ventricosus Gmelin, 1791	43.222797	17.000879	250	2017-06-13T02:00Z	13	6	2017
+1579977906	Animalia	Nymphalidae	Coenonympha arcania Linnaeus, 1761	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1579977889	Animalia	Nymphalidae	Coenonympha glycerion (Borkhausen, 1788) Borkhausen, 1788	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1579971973	Animalia	Columbidae	Columba livia Gmelin, 1789	43.26226	17.059801	250	2017-04-14T02:00Z	14	4	2017
+1579971811	Plantae	Convolvulaceae	Convolvulus cneorum L.	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1579969640	Animalia	Pantheidae	Colocasia coryli Linnaeus, 1758	45.380669	14.821115	250	2017-06-11T02:00Z	11	6	2017
+1579969126	Animalia	Nymphalidae	Coenonympha pamphilus Linnaeus, 1758	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1579969095	Plantae	Fabaceae	Coronilla cretica L.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1579969085	Plantae	Anacardiaceae	Cotinus coggygria Scop.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1579965271	Animalia	Columbidae	Columba livia Gmelin, 1789	43.258057	17.063749	250	2017-04-13T02:00Z	13	4	2017
+1579963918	Plantae	Anacardiaceae	Cotinus coggygria Scop.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1579963888	Animalia	Nymphalidae	Coenonympha pamphilus Linnaeus, 1758	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1579962345	Plantae	Orchidaceae	Corallorhiza trifida Châtel.	44.87339	14.984264	250	2017-06-01T02:00Z	1	6	2017
+1579961124	Plantae	Convolvulaceae	Convolvulus cneorum L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1579960593	Plantae	Convolvulaceae	Convolvulus arvensis L.	45.087612	13.878181	250	2017-05-22T02:00Z	22	5	2017
+1579959822	Animalia	Corvidae	Corvus monedula Linnaeus, 1758	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1579959794	Plantae	Convolvulaceae	Convolvulus althaeoides L.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1579959788	Plantae	Fabaceae	Coronilla valentina L.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1579956015	Animalia	Geometridae	Colostygia pectinataria Knoch, 1781	45.405193	14.799158	250	2017-06-11T02:00Z	11	6	2017
+1579951749	Animalia	Nymphalidae	Coenonympha pamphilus Linnaeus, 1758	45.078732	14.1364	250	2017-05-15T02:00Z	15	5	2017
+1579949917	Animalia	Geometridae	Colostygia pectinataria Knoch, 1781	45.405193	14.799158	250	2017-06-12T02:00Z	12	6	2017
+1579940373	Animalia	Diogenidae	Clibanarius erythropus (Latreille, 1818)	43.222797	17.000879	250	2017-06-13T02:00Z	13	6	2017
+1579940204	Plantae	Ranunculaceae	Clematis L.	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1579940193	Animalia	Cerambycidae	Clytus arietis (Linné, 1758)	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1579938123	Plantae	Cistaceae	Cistus creticus subsp. eriocephalus (Viv.) Greuter & Burdet	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1579936437	Plantae	Cistaceae	Cistus creticus subsp. eriocephalus (Viv.) Greuter & Burdet	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1579934533	Animalia	Accipitridae	Circaetus gallicus (Gmelin, 1788)	44.87339	14.984264	250	2017-06-01T02:00Z	1	6	2017
+1579934065	Plantae	Rutaceae	Citrus reticulata Blanco	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1579931321	Animalia	Accipitridae	Circus pygargus (Linnaeus, 1758)	44.361046	15.151219	250	2017-05-30T02:00Z	30	5	2017
+1579931288	Animalia	Accipitridae	Circaetus gallicus (Gmelin, 1788)	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1579931274	Animalia	Carabidae	Cicindela campestris Linnaeus, 1758	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1579931187	Animalia	Accipitridae	Circus pygargus (Linnaeus, 1758)	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1579928943	Animalia	Mugilidae	Chelon labrosus (Risso, 1827)	45.080399	14.144146	250	2017-05-19T02:00Z	19	5	2017
+1579925525	Animalia	Charadriidae	Charadrius alexandrinus Linnaeus, 1758	44.412693	15.089207	250	2017-05-29T02:00Z	29	5	2017
+1579925521	Animalia	Charadriidae	Charadrius hiaticula Linnaeus, 1758	44.412693	15.089207	250	2017-05-29T02:00Z	29	5	2017
+1579924747	Animalia	Charadriidae	Charadrius alexandrinus Linnaeus, 1758	44.140591	15.156281	250	2017-06-19T02:00Z	19	6	2017
+1579923276	Animalia	Chrysomelidae	Chrysolina rufa (Duftschmid, 1825) Duftschmid, 1825	45.438725	14.852249	250	2017-06-09T02:00Z	9	6	2017
+1579922871	Plantae	Papaveraceae	Chelidonium majus L.	45.089458	14.120672	250	2017-05-25T02:00Z	25	5	2017
+1579922556	Plantae	Asteraceae	Chrysanthemum cinerariifolium (Trevir.) Vis.	43.242828	17.087532	250	2017-06-05T02:00Z	5	6	2017
+1579922182	Animalia	Laridae	Chlidonias hybrida (Pallas, 1811)	44.361046	15.151219	250	2017-05-30T02:00Z	30	5	2017
+1579922105	Animalia	Charadriidae	Charadrius hiaticula Linnaeus, 1758	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1579922097	Animalia	Charadriidae	Charadrius dubius Scopoli, 1786	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1579922076	Animalia	Mugilidae	Chelon labrosus (Risso, 1827)	45.080399	14.144146	250	2017-05-17T02:00Z	17	5	2017
+1579920959	Plantae	Asteraceae	Centaurea jacea	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1579920929	Animalia	Cetoniidae	Cetonia aurata (Linnaeus, 1761)	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1579920885	Plantae	Asteraceae	Centaurea L.	45.094612	14.18886	250	2017-05-26T02:00Z	26	5	2017
+1579919773	Plantae	Fabaceae	Cercis siliquastrum L.	44.87558	13.841143	250	2017-05-15T02:00Z	15	5	2017
+1579919758	Plantae	Caprifoliaceae	Centranthus ruber (L.) DC.	44.87558	13.841143	250	2017-05-15T02:00Z	15	5	2017
+1579919171	Animalia	Cercopidae	Cercopis sanguinolenta (Scopoli, 1763)	45.094612	14.18886	250	2017-05-23T02:00Z	23	5	2017
+1579917833	Plantae	Pinaceae	Cedrus deodara (Lamb.) G. Don	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1579917439	Plantae	Pinaceae	Cedrus deodara (Lamb.) G. Don	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1579917428	Plantae	Caprifoliaceae	Centranthus ruber (L.) DC.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1579917401	Plantae	Cannabaceae	Celtis australis L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1579917338	Plantae	Pinaceae	Cedrus deodara (Lamb.) G. Don	45.087612	13.878181	250	2017-05-22T02:00Z	22	5	2017
+1579917232	Plantae	Fabaceae	Cercis siliquastrum L.	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1579915395	Plantae	Caprifoliaceae	Centranthus ruber (L.) DC.	45.080399	14.144146	250	2017-05-23T02:00Z	23	5	2017
+1579915272	Plantae	Fabaceae	Cercis siliquastrum L.	45.080399	14.144146	250	2017-05-17T02:00Z	17	5	2017
+1579915243	Plantae	Caprifoliaceae	Centranthus ruber (L.) DC.	45.080399	14.144146	250	2017-05-17T02:00Z	17	5	2017
+1579914715	Animalia	Lycaenidae	Celastrina argiolus (Linnaeus, 1758)	43.258057	17.063749	250	2017-04-15T02:00Z	15	4	2017
+1579914132	Animalia	Fringillidae	Carduelis chloris (Linnaeus, 1758)	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1579913931	Plantae	Campanulaceae	Campanula patula L.	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1579913903	Animalia	Calopterygidae	Calopteryx splendens Harris, 1780	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1579912069	Animalia	Fringillidae	Carduelis carduelis (Linnaeus, 1758)	45.463352	14.853622	250	2017-06-10T02:00Z	10	6	2017
+1579911509	Animalia	Veneridae	Callista chione (Linnaeus, 1758)	43.201672	17.126312	250	2017-06-14T02:00Z	14	6	2017
+1579905867	Animalia	Fringillidae	Carduelis chloris (Linnaeus, 1758)	43.26226	17.059801	250	2017-04-14T02:00Z	14	4	2017
+1579904115	Animalia	Calopterygidae	Calopteryx virgo Linnaeus, 1758	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1579898944	Plantae	Campanulaceae	Campanula pyramidalis L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1579898936	Plantae	Aizoaceae	Carpobrotus edulis (L.) N. E. Br.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1579898933	Plantae	Myrtaceae	Callistemon citrinus (Curtis) Skeels	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1579898107	Plantae	Campanulaceae	Campanula pyramidalis L.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1579895731	Animalia	Carabidae	Carabus coriaceus Linnaeus, 1758	45.405193	14.799158	250	2017-06-11T02:00Z	11	6	2017
+1579892627	Animalia	Lycaenidae	Callophrys rubi (Linnaeus, 1758)	43.263351	17.057098	250	2017-04-14T02:00Z	14	4	2017
+1579891756	Animalia	Noctuidae	Callopistria juventina Stoll, 1782	45.405193	14.799158	250	2017-06-12T02:00Z	12	6	2017
+1579889163	Animalia	Fringillidae	Carduelis chloris (Linnaeus, 1758)	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1579889133	Animalia	Caprimulgidae	Caprimulgus europaeus Linnaeus, 1758	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1579888933	Animalia	Fringillidae	Carduelis chloris (Linnaeus, 1758)	43.284321	17.09173	250	2017-06-12T02:00Z	12	6	2017
+1579871442	Animalia	Nymphalidae	Brenthis daphne Denis & Schiffermüller, 1775	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1579871441	Animalia	Nymphalidae	Brenthis daphne Denis & Schiffermüller, 1775	45.443451	15.005221	250	2017-06-09T02:00Z	9	6	2017
+1579870301	Plantae	Poaceae	Briza maxima L.	45.094612	14.18886	250	2017-05-23T02:00Z	23	5	2017
+1579869986	Plantae	Cucurbitaceae	Bryonia dioica Jacq.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1579868679	Plantae	Poaceae	Briza maxima L.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1579866510	Animalia	Muricidae	Bolinus brandaris (Linnaeus, 1758)	43.222797	17.000879	250	2017-06-13T02:00Z	13	6	2017
+1579863163	Animalia	Nymphalidae	Boloria euphrosyne (Linnaeus, 1758) Linnaeus, 1758	43.284321	17.09173	250	2017-06-06T02:00Z	6	6	2017
+1579862548	Plantae	Gentianaceae	Blackstonia perfoliata (L.) Huds.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1579861682	Plantae	Asteraceae	Bellis annua L.	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1579860705	Plantae	Asteraceae	Bellis annua L.	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1579860675	Plantae	Asteraceae	Bellis annua L.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1579853480	Animalia	Anatidae	Aythya ferina (Linnaeus, 1758)	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1579852621	Plantae	Poaceae	Avena sterilis L.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1579852407	Animalia	Noctuidae	Autographa gamma Linnaeus, 1758	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1579851504	Plantae	Amaranthaceae	Atriplex portulacoides L.	45.080399	14.144146	250	2017-05-23T02:00Z	23	5	2017
+1579851466	Animalia	Strigidae	Athene noctua (Scopoli, 1769)	44.361046	15.151219	250	2017-05-30T02:00Z	30	5	2017
+1579851401	Plantae	Aspleniaceae	Asplenium trichomanes	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1579851400	Plantae	Aspleniaceae	Asplenium ceterach L.	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1579851275	Plantae	Asparagaceae	Asparagus acutifolius L.	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1579851194	Plantae	Aspleniaceae	Asplenium ceterach L.	45.066006	14.140863	250	2017-05-16T02:00Z	16	5	2017
+1579850893	Plantae	Asparagaceae	Asparagus acutifolius L.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1579850611	Plantae	Asparagaceae	Asparagus acutifolius L.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1579850350	Plantae	Aspleniaceae	Asplenium scolopendrium Linnaeus	45.438725	14.852249	250	2017-06-09T02:00Z	9	6	2017
+1579849707	Plantae	Rosaceae	Aruncus dioicus (Walter) Fern.	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1579847919	Animalia	Arbaciidae	Arbacia lixula (Linnaeus, 1758)	43.222797	17.000879	250	2017-06-13T02:00Z	13	6	2017
+1579847485	Plantae	Rosaceae	Aruncus dioicus (Walter) Fern.	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1579847480	Animalia	Nymphalidae	Argynnis aglaja (Linnaeus, 1758) Linnaeus, 1758	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1579847146	Plantae	Araceae	Arum italicum Mill.	44.87558	13.841143	250	2017-05-15T02:00Z	15	5	2017
+1579844718	Animalia	Lycaenidae	Aricia agestis (Denis & Schiffermüller, 1775)	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1579842955	Animalia	Lycaenidae	Aricia agestis (Denis & Schiffermüller, 1775)	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1579842938	Plantae	Asteraceae	Artemisia vulgaris Journet & Vickery, 1979	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1579842094	Plantae	Araceae	Arum italicum Mill.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1579841708	Plantae	Araceae	Arum italicum Mill.	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1579837416	Animalia	Ardeidae	Ardeola ralloides (Scopoli, 1769)	44.361046	15.151219	250	2017-05-30T02:00Z	30	5	2017
+1579835683	Animalia	Accipitridae	Aquila chrysaetos (Linnaeus, 1758)	43.284321	17.09173	250	2017-04-18T02:00Z	18	4	2017
+1579835440	Plantae	Ranunculaceae	Aquilegia L.	43.284321	17.09173	250	2017-06-12T02:00Z	12	6	2017
+1579833486	Animalia	Pieridae	Aporia crataegi (Linnaeus, 1758)	43.284321	17.09173	250	2017-06-10T02:00Z	10	6	2017
+1579833071	Animalia	Pieridae	Aporia crataegi (Linnaeus, 1758)	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1579832552	Animalia	Apodidae	Apus apus (Linnaeus, 1758)	43.26226	17.059801	250	2017-04-16T02:00Z	16	4	2017
+1579832493	Animalia	Pieridae	Aporia crataegi (Linnaeus, 1758)	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1579832255	Animalia	Apodidae	Apus apus (Linnaeus, 1758)	44.412693	15.089207	250	2017-05-29T02:00Z	29	5	2017
+1579832071	Animalia	Apodidae	Apus apus (Linnaeus, 1758)	45.087612	13.878181	250	2017-05-22T02:00Z	22	5	2017
+1579831552	Animalia	Pieridae	Aporia crataegi (Linnaeus, 1758)	45.388927	14.856176	250	2017-06-09T02:00Z	9	6	2017
+1579830426	Animalia	Apodidae	Apus apus (Linnaeus, 1758)	43.242828	17.087532	250	2017-06-04T02:00Z	4	6	2017
+1579830224	Animalia	Apodidae	Apus pallidus (Shelley, 1870)	43.284321	17.09173	250	2017-06-12T02:00Z	12	6	2017
+1579825584	Animalia	Acrididae	Anacridium aegyptium (Linnaeus, 1764)	43.201672	17.126312	250	2017-06-14T02:00Z	14	6	2017
+1579823021	Animalia	Pieridae	Anthocharis cardamines (Linnaeus, 1758)	45.415924	14.667864	250	2017-06-11T02:00Z	11	6	2017
+1579820113	Animalia	Motacillidae	Anthus trivialis (Linnaeus, 1758)	45.363968	14.707689	250	2017-06-11T02:00Z	11	6	2017
+1579818939	Animalia	Acrididae	Anacridium aegyptium (Linnaeus, 1764)	45.094612	14.18886	250	2017-05-23T02:00Z	23	5	2017
+1579818303	Animalia	Motacillidae	Anthus campestris (Linnaeus, 1758)	43.284321	17.09173	250	2017-06-10T02:00Z	10	6	2017
+1579815857	Plantae	Orchidaceae	Anacamptis pyramidalis (L.) Rich.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1579815837	Plantae	Fabaceae	Anthyllis vulneraria subsp. rubriflora (DC.) Arcang.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1579811423	Plantae	Orchidaceae	Anacamptis pyramidalis (L.) Rich.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1579810090	Animalia	Motacillidae	Anthus trivialis (Linnaeus, 1758)	44.87339	14.984264	250	2017-06-01T02:00Z	1	6	2017
+1579809182	Plantae	Plantaginaceae	Antirrhinum majus L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1579809101	Plantae	Primulaceae	Anagallis arvensis L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1579808142	Plantae	Orchidaceae	Anacamptis pyramidalis (L.) Rich.	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1579808048	Plantae	Plantaginaceae	Antirrhinum majus L.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1579800988	Plantae	Fabaceae	Anthyllis vulneraria L.	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1579800974	Animalia	Pieridae	Anthocharis cardamines (Linnaeus, 1758)	43.286812	17.023058	250	2017-04-14T02:00Z	14	4	2017
+1579800954	Plantae	Fabaceae	Anthyllis cytisoides L.	45.066006	14.140863	250	2017-05-19T02:00Z	19	5	2017
+1579800753	Animalia	Choreutidae	Anthophila fabriciana Linnaeus, 1767	45.438725	14.852249	250	2017-06-09T02:00Z	9	6	2017
+1579796021	Animalia	Motacillidae	Anthus campestris (Linnaeus, 1758)	43.284321	17.09173	250	2017-06-12T02:00Z	12	6	2017
+1579792088	Animalia	Melanopsidae	Amphimelania holandri C. Pfeiffer, 1828	45.460732	14.830427	250	2017-06-10T02:00Z	10	6	2017
+1579791751	Animalia	Arctiidae	Amata phegea Linnaeus, 1758	43.284321	17.09173	250	2017-06-10T02:00Z	10	6	2017
+1579791173	Animalia	Arctiidae	Amata phegea Linnaeus, 1758	45.438725	14.852249	250	2017-06-09T02:00Z	9	6	2017
+1579791135	Animalia	Arctiidae	Amata	44.913155	13.761921	250	2017-05-22T02:00Z	22	5	2017
+1579790815	Animalia	Arctiidae	Amata phegea Linnaeus, 1758	45.491428	14.691038	250	2017-06-12T02:00Z	12	6	2017
+1579784684	Plantae	Brassicaceae	Alliaria petiolata (M.Bieb.) Cavara & Grande	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1579779795	Plantae	Amaryllidaceae	Allium ampeloprasum L.	45.080399	14.144146	250	2017-05-23T02:00Z	23	5	2017
+1579779395	Animalia	Phasianidae	Alectoris graeca (Meisner, 1804)	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1579778456	Plantae	Amaryllidaceae	Allium roseum L.	43.258057	17.063749	250	2017-04-15T02:00Z	15	4	2017
+1579778436	Plantae	Amaryllidaceae	Allium subhirsutum L.	43.258057	17.063749	250	2017-04-15T02:00Z	15	4	2017
+1579777869	Plantae	Lamiaceae	Ajuga chamaepitys (L.) Schreb.	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1579777651	Plantae	Lamiaceae	Ajuga chamaepitys (L.) Schreb.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1579777608	Plantae	Lamiaceae	Ajuga chamaepitys (L.) Schreb.	45.080399	14.144146	250	2017-05-22T02:00Z	22	5	2017
+1579777535	Plantae	Simaroubaceae	Ailanthus altissima (Miller) Swingle	44.87558	13.841143	250	2017-05-15T02:00Z	15	5	2017
+1579773299	Plantae	Asparagaceae	Agave attenuata Salm-Dyck	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1579773268	Plantae	Asparagaceae	Agave L.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1579772803	Animalia	Noctuidae	Agrotis exclamationis Linnaeus, 1758	45.405193	14.799158	250	2017-06-10T02:00Z	10	6	2017
+1579772476	Animalia	Nymphalidae	Aglais urticae Linnaeus, 1758	45.388927	14.856176	250	2017-06-09T02:00Z	9	6	2017
+1579772410	Animalia	Noctuidae	Agrotis exclamationis Linnaeus, 1758	45.405193	14.799158	250	2017-06-11T02:00Z	11	6	2017
+1579771558	Animalia	Chrysomelidae	Agelastica alni (Linnaeus, 1758)	45.438725	14.852249	250	2017-06-09T02:00Z	9	6	2017
+1579771340	Animalia	Noctuidae	Agrotis exclamationis Linnaeus, 1758	45.405193	14.799158	250	2017-06-12T02:00Z	12	6	2017
+1579769473	Animalia	Noctuidae	Aedia funesta Esper, 1786	45.405193	14.799158	250	2017-06-13T02:00Z	13	6	2017
+1579768212	Plantae	Poaceae	Aegilops neglecta Req. ex Bertol.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1579767720	Plantae	Boraginaceae	Aegonychon purpurocaeruleum (L.) J. Holub	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1579767409	Plantae	Sapindaceae	Aesculus carnea Hayne	45.087612	13.878181	250	2017-05-22T02:00Z	22	5	2017
+1579767052	Animalia	Noctuidae	Aedia funesta Esper, 1786	45.405193	14.799158	250	2017-06-10T02:00Z	10	6	2017
+1579764998	Animalia	Zygaenidae	Adscita Retzius, 1783	43.284321	17.09173	250	2017-06-12T02:00Z	12	6	2017
+1579764948	Plantae	Ranunculaceae	Adonis annua L.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1579764927	Plantae	Pteridaceae	Adiantum capillus-veneris L.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1579762415	Plantae	Sapindaceae	Acer monspessulanum L.	45.066006	14.140863	250	2017-05-17T02:00Z	17	5	2017
+1579761910	Plantae	Sapindaceae	Acer hyrcanum Fisch. & C. A. Mey.	45.078732	14.1364	250	2017-05-24T02:00Z	24	5	2017
+1579760993	Plantae	Sapindaceae	Acer L.	45.078732	14.1364	250	2017-05-25T02:00Z	25	5	2017
+1579760519	Plantae	Sapindaceae	Acer hyrcanum Fisch. & C. A. Mey.	45.080399	14.144146	250	2017-05-18T02:00Z	18	5	2017
+1579759938	Animalia	Noctuidae	Acronicta aceris Linnaeus, 1758	45.405193	14.799158	250	2017-06-10T02:00Z	10	6	2017
+1579757822	Animalia	Acrocephalidae	Acrocephalus scirpaceus (Hermann, 1804)	44.361046	15.151219	250	2017-05-30T02:00Z	30	5	2017
+1579757771	Animalia	Acrocephalidae	Acrocephalus arundinaceus (Linnaeus, 1758)	44.514317	14.917942	250	2017-05-29T02:00Z	29	5	2017
+1572400768	Plantae	Cactaceae	Opuntia humifusa (Raf.) Raf.	44.195556	15.767778		2017-07-05T18:22Z	5	7	2017
+1572400744	Animalia	Platycnemididae	Platycnemis pennipes Pallas, 1771	44.161667	15.848889		2017-07-05T12:12Z	5	7	2017
+1572400737	Plantae	Potamogetonaceae	Potamogeton perfoliatus L.	44.186111	15.815556		2017-07-05T15:52Z	5	7	2017
+1572400727	Plantae	Poaceae	Lagurus ovatus L.	44.231944	15.168611		2017-07-06T21:46Z	6	7	2017
+1572400713	Animalia	Chrysomelidae	Donacia versicolorea (Brahms, 1790) Brahms, 1790	44.179722	15.8175		2017-07-05T14:01Z	5	7	2017
+1572400684	Animalia	Calopterygidae	Calopteryx splendens Harris, 1780	44.170556	15.832222		2017-07-05T13:31Z	5	7	2017
+1572400680	Plantae	Nymphaeaceae	Nuphar luteum (L.) Sibth. & Sm.	44.246389	15.810556		2017-07-05T13:58Z	5	7	2017
+1572400671	Plantae	Asteraceae	Scolymus hispanicus L.	44.196389	15.767778		2017-07-05T18:18Z	5	7	2017
+1572400669	Plantae	Asteraceae	Inula verbascifolia (Willd.) Hausskn.	44.291667	15.126667		2017-07-05T18:16Z	5	7	2017
+1572400663	Animalia	Nymphalidae	Polygonia egea Cramer, 1779	44.196111	15.767778		2017-07-05T18:21Z	5	7	2017
+1572400660	Plantae	Rhamnaceae	Paliurus spina-christi Miller	44.161944	15.848611		2017-07-05T12:36Z	5	7	2017
+1572400657	Plantae	Lamiaceae	Teucrium montanum L.	44.187222	15.820833		2017-07-05T14:54Z	5	7	2017
+1572400653	Plantae	Plantaginaceae	Linaria vulgaris Mill.	44.161647	15.848616	4	2017-07-05T12:15Z	5	7	2017
+1572400650	Plantae	Campanulaceae	Campanula fenestrellata Feer	44.193056	15.794722		2017-07-05T16:57Z	5	7	2017
+1572400649	Plantae	Asteraceae	Onopordum illyricum L.	44.161676	15.848519	4	2017-07-05T12:13Z	5	7	2017
+1572400600	Plantae	Caryophyllaceae	Petrorhagia saxifraga (L.) Link	44.187778	15.818056		2017-07-05T15:35Z	5	7	2017
+1572400521	Plantae	Asteraceae	Limbarda crithmoides subsp. longifolia (Arcang.) Greuter	44.211974	15.158753	8	2017-07-03T21:25Z	3	7	2017
+1572400516	Plantae	Fabaceae	Bituminaria bituminosa (L.) C.H.Stirt.	44.210978	15.161353	31	2017-07-03T22:09Z	3	7	2017
+1572400503	Animalia	Helicidae	Otala lactea (O.F. Muller, 1774) O.F. Muller, 1774	44.213686	15.164078	31	2017-07-03T20:54Z	3	7	2017
+1572400495	Plantae	Rubiaceae	Galium verum L.	44.211667	15.159444		2017-07-03T21:20Z	3	7	2017
+1572400491	Plantae	Brassicaceae	Cakile maritima Scop.	44.282222	15.124722		2017-07-04T22:14Z	4	7	2017
+1572400483	Animalia	Pentatomidae	Graphosoma Laporte, 1833	44.269722	15.128611		2017-07-04T23:01Z	4	7	2017
+1572400390	Plantae	Poaceae	Briza maxima L.	44.234444	15.173056		2017-07-02T21:07Z	2	7	2017
+1572400337	Animalia	Carabidae	Carabus coriaceus Linnaeus, 1758	44.234167	15.172778		2017-07-02T20:59Z	2	7	2017
+1572400320	Animalia	Carabidae	Carabus coriaceus Linnaeus, 1758	44.233333	15.170556		2017-07-02T20:27Z	2	7	2017
+1572400289	Animalia	Subulinidae	Rumina decollata (Linnaeus, 1758) Linnaeus, 1758	44.236667	15.173056		2017-07-02T21:35Z	2	7	2017
+1572391858	Animalia	Esocidae	Esox lucius Linnaeus, 1758	44.900908	15.610628		2017-06-05T13:05Z	5	6	2017
+1572384057	Plantae	Asteraceae	Jacobaea maritima (L.) Pelser & Meijden	44.233891	15.169444		2017-07-01T22:28Z	1	7	2017
+1572383946	Animalia	Pentatomidae	Carpocoris mediterraneus Tamanini, 1959	44.233891	15.17		2017-07-01T22:15Z	1	7	2017
+1572383904	Animalia	Lacertidae	Podarcis siculus (Rafinesque-schmaltz, 1810)	44.234165	15.169723		2017-07-01T22:17Z	1	7	2017
+1572383891	Animalia	Hygromiidae	Monacha cartusiana (Müller, 1774)	44.233055	15.171111	2752	2017-07-01T21:51Z	1	7	2017
+1572383886	Animalia	Buprestidae	Chalcophora mariana (Linnaeus, 1758) Linnaeus, 1758	44.233055	15.171111		2017-07-01T22:01Z	1	7	2017
+1572382022	Animalia	Noctuidae	Autographa gamma Linnaeus, 1758	43.550512	16.387385	6	2017-07-04T02:00Z	4	7	2017
+1572379324	Plantae	Gentianaceae	Blackstonia perfoliata (L.) Huds.	44.232498	15.170278		2017-07-01T21:26Z	1	7	2017
+1572379291	Plantae	Convolvulaceae	Convolvulus arvensis L.	44.234105	15.16631	344	2017-07-01T14:45Z	1	7	2017
+1572379250	Plantae	Primulaceae	Anagallis arvensis L.	44.231945	15.166667		2017-07-01T14:48Z	1	7	2017
+1572379140	Animalia	Mactridae	Mactra stultorum (Linnaeus, 1758)	44.230127	15.162926	2752	2017-07-01T14:30Z	1	7	2017
+1572379129	Animalia	Muricidae	Bolinus brandaris (Linnaeus, 1758)	44.230434	15.16235	2752	2017-07-01T14:18Z	1	7	2017
+1572379071	Animalia	Muricidae	Hexaplex trunculus (Linnaeus, 1758)	44.23015	15.162626	2752	2017-07-01T14:15Z	1	7	2017
+1572379061	Plantae	Asteraceae	Cichorium intybus L.	44.228054	15.168611	2752	2017-07-01T14:45Z	1	7	2017
+1572379035	Animalia	Littorinidae	Melarhaphe neritoides (Linnaeus, 1758)	44.23111	15.1625		2017-07-01T14:22Z	1	7	2017
+1572358834	Animalia	Cyprinidae	Squalius cephalus (Linnaeus, 1758)	44.873598	15.605736	663	2017-06-26T19:23Z	26	6	2017
+1572357606	Animalia	Papilionidae	Iphiclides podalirius (Linnaeus, 1758)	43.538721	16.482818	24	2017-07-03T02:00Z	3	7	2017
+1572357595	Animalia	Pieridae	Pontia edusa (Fabricius, 1777)	43.538721	16.482818	24	2017-07-03T02:00Z	3	7	2017
+1572351825	Plantae	Fabaceae	Lotus corniculatus L.	46.07656	15.676763	10	2017-06-25T19:11Z	25	6	2017
+1572351758	Animalia	Libellulidae	Orthetrum brunneum Fonscolombe, 1837	44.943545	14.414492	10	2017-06-20T19:06Z	20	6	2017
+1572351736	Animalia	Columbidae	Columba livia Gmelin, 1789	44.943552	14.414542	10	2017-06-20T19:05Z	20	6	2017
+1572351727	Animalia	Hirundinidae	Hirundo rustica Linnaeus, 1758	44.949173	14.415618	10	2017-06-20T18:35Z	20	6	2017
+1572351720	Plantae	Rubiaceae	Galium album Mill.	46.076163	15.676913	10	2017-06-25T19:16Z	25	6	2017
+1572351706	Plantae	Adoxaceae	Sambucus ebulus L.	44.943525	14.414537	10	2017-06-20T19:07Z	20	6	2017
+1572351700	Animalia	Cetoniidae	Cetonia aurata (Linnaeus, 1761)	44.94345	14.414665	10	2017-06-20T19:08Z	20	6	2017
+1572351693	Plantae	Hypericaceae	Hypericum perforatum L.	46.076503	15.676818	10	2017-06-25T19:11Z	25	6	2017
+1572351682	Animalia	Lacertidae	Algyroides nigropunctatus (Duméril & Bibron, 1839)	45.1081	14.02891	46	2017-06-27T20:07Z	27	6	2017
+1572351662	Plantae	Plantaginaceae	Plantago lanceolata L.	46.076217	15.67698	10	2017-06-25T19:16Z	25	6	2017
+1572351661	Plantae	Asteraceae	Erigeron L.	46.07678	15.676897	10	2017-06-25T19:06Z	25	6	2017
+1572351652	Plantae	Lamiaceae	Stachys byzantina K.Koch	44.947405	14.405672	10	2017-06-20T19:39Z	20	6	2017
+1572351631	Animalia	Papilionidae	Iphiclides podalirius (Linnaeus, 1758)	44.955913	14.413041	10	2017-06-20T14:39Z	20	6	2017
+1572351630	Plantae	Rhamnaceae	Paliurus spina-christi Miller	44.942268	14.414935	10	2017-06-20T19:15Z	20	6	2017
+1572351509	Animalia	Lacertidae	Lacerta Linnaeus, 1758	45.10663	14.03495	46	2017-06-27T19:27Z	27	6	2017
+1572350882	Plantae	Malvaceae	Malva sylvestris L.	44.957653	14.40578	10	2017-06-19T14:32Z	19	6	2017
+1572350582	Animalia	Lycaenidae	Celastrina argiolus (Linnaeus, 1758)	43.554821	16.388297	48	2017-07-01T02:00Z	1	7	2017
+1572350578	Animalia	Papilionidae	Papilio machaon Linnaeus, 1758	43.554821	16.388297	48	2017-07-01T02:00Z	1	7	2017
+1572350576	Animalia	Lycaenidae	Lycaena phlaeas (Linnaeus, 1761)	43.554821	16.388297	48	2017-07-01T02:00Z	1	7	2017
+1572347378	Animalia	Ranidae	Rana dalmatina Fitzinger in Bonaparte, 1839	45.34668	14.06151	11	2017-06-28T12:02Z	28	6	2017
+1572347377	Animalia	Salamandridae	Lissotriton vulgaris (Linnaeus, 1758)	45.368497	14.016735	5	2017-06-28T13:22Z	28	6	2017
+1572347314	Animalia	Bombinatoridae	Bombina variegata (Linnaeus, 1758)	45.368046	14.017452	11	2017-06-28T13:05Z	28	6	2017
+1572347296	Animalia	Salamandridae	Lissotriton vulgaris (Linnaeus, 1758)	45.34668	14.06151	11	2017-06-28T12:02Z	28	6	2017
+1572347284	Animalia	Salamandridae	Triturus carnifex (Laurenti, 1768)	45.34668	14.06151	11	2017-06-28T12:03Z	28	6	2017
+1572347274	Animalia	Lacertidae	Algyroides nigropunctatus (Duméril & Bibron, 1839)	45.126415	13.812526	11	2017-06-26T16:28Z	26	6	2017
+1572347269	Animalia	Bufonidae	Bufo bufo (Linnaeus, 1758)	45.368497	14.016735	5	2017-06-28T13:19Z	28	6	2017
+1572347246	Animalia	Colubridae	Natrix natrix (Linnaeus, 1758)	45.460328	14.153687	11	2017-06-25T14:32Z	25	6	2017
+1572347231	Animalia	Bufonidae	Bufo bufo (Linnaeus, 1758)	45.460328	14.153687	11	2017-06-25T14:30Z	25	6	2017
+1572347218	Animalia	Salamandridae	Lissotriton vulgaris (Linnaeus, 1758)	45.4004	14.14892	11	2017-06-25T12:29Z	25	6	2017
+1572347192	Animalia	Lacertidae	Podarcis melisellensis (Braun, 1877)	45.014125	14.16218	46	2017-06-27T12:35Z	27	6	2017
+1572347155	Animalia	Bufonidae	Bufo bufo (Linnaeus, 1758)	45.4004	14.14892	11	2017-06-25T12:39Z	25	6	2017
+1572347137	Animalia	Salamandridae	Ichthyosaura alpestris (Laurenti, 1768)	45.4004	14.14892	11	2017-06-25T12:38Z	25	6	2017
+1572347113	Animalia	Salamandridae	Triturus carnifex (Laurenti, 1768)	45.4004	14.14892	11	2017-06-25T12:51Z	25	6	2017
+1572347018	Animalia	Colubridae	Natrix natrix (Linnaeus, 1758)	44.964902	14.457372	11	2017-06-23T18:52Z	23	6	2017
+1572346951	Animalia	Colubridae	Elaphe quatuorlineata (Bonnaterre, 1790)	45.182014	14.095244	27206	2017-06-25T11:43Z	25	6	2017
+1572346863	Animalia	Strigidae	Bubo bubo (Linnaeus, 1758)	45.079898	14.090985	15	2017-06-21T15:54Z	21	6	2017
+1572346807	Animalia	Bombinatoridae	Bombina variegata (Linnaeus, 1758)	45.291134	13.957978	5	2017-06-20T16:34Z	20	6	2017
+1572346804	Animalia	Bombinatoridae	Bombina variegata (Linnaeus, 1758)	45.290442	13.958566	10	2017-06-20T16:35Z	20	6	2017
+1572346785	Animalia	Lacertidae	Podarcis melisellensis (Braun, 1877)	45.0205	14.15899	23	2017-06-20T11:55Z	20	6	2017
+1572346420	Animalia	Bombinatoridae	Bombina variegata (Linnaeus, 1758)	45.219021	14.042938	11	2017-06-19T16:23Z	19	6	2017
+1572346399	Animalia	Anguidae	Anguis fragilis Linnaeus, 1758	45.01806	14.06209	10	2017-06-17T21:59Z	17	6	2017
+1572346389	Animalia	Ranidae	Rana dalmatina Fitzinger in Bonaparte, 1839	45.01806	14.06209	10	2017-06-17T22:03Z	17	6	2017
+1572346367	Animalia	Colubridae	Hierophis gemonensis (Laurenti, 1768)	45.01806	14.06209	10	2017-06-17T16:50Z	17	6	2017
+1572346308	Animalia	Colubridae	Zamenis longissimus (Laurenti, 1768)	45.01806	14.06209	10	2017-06-18T19:28Z	18	6	2017
+1572345949	Animalia	Pterophoridae	Emmelina monodactyla Linnaeus, 1758	43.550514	16.387385	6	2017-06-30T02:00Z	30	6	2017
+1572345899	Animalia	Geometridae	Idaea rusticata Schiffermüller, 1775	43.550514	16.387385	6	2017-06-29T02:00Z	29	6	2017
+1572345872	Animalia	Geometridae	Menophra abruptaria Thunberg, 1792	43.550514	16.387385	6	2017-06-30T02:00Z	30	6	2017
+1572340828	Animalia	Lymantriidae	Lymantria dispar Linnaeus, 1758	43.550512	16.387382	6	2017-06-28T02:00Z	28	6	2017
+1571198926	Animalia	Crambidae	Cydalima perspectalis (Walker, 1859) Walker, 1859	43.550512	16.387382	6	2017-06-28T02:00Z	28	6	2017
+1571198913	Animalia	Noctuidae	Tyta luctuosa Schiffermüller, 1776	43.550512	16.387382	6	2017-06-28T02:00Z	28	6	2017
+1571198860	Animalia	Tortricidae	Cydia pomonella Linnaeus, 1758	43.550512	16.387382	6	2017-06-28T02:00Z	28	6	2017
+1571195632	Animalia	Noctuidae	Emmelia trabealis (Scopoli, 1763)	43.550522	16.38738	6	2017-06-27T02:00Z	27	6	2017
+1571191093	Animalia	Lymantriidae	Lymantria dispar Linnaeus, 1758	43.502787	16.437821	96	2017-06-27T02:00Z	27	6	2017
+1571181485	Plantae	Plantaginaceae	Plantago lanceolata L.	45.819462	15.907359	10	2017-06-25T14:47Z	25	6	2017
+1571181363	Plantae	Convolvulaceae	Convolvulus arvensis L.	45.819378	15.907195	10	2017-06-25T14:48Z	25	6	2017
+1571176707	Animalia	Arctiidae	Amata phegea Linnaeus, 1758	45.987335	15.734281	10	2017-06-24T12:38Z	24	6	2017
+1571176615	Plantae	Asteraceae	Cirsium arvense (L.) Scop.	45.987446	15.735052	10	2017-06-24T13:10Z	24	6	2017
+1571176608	Animalia	Nymphalidae	Araschnia levana Linnaeus, 1758	45.987293	15.734125		2017-06-24T12:40Z	24	6	2017
+1571173425	Animalia	Papilionidae	Papilio machaon Linnaeus, 1758	43.908986	16.395092	6	2017-06-23T18:26Z	23	6	2017
+1571162166	Plantae	Aspleniaceae	Asplenium ceterach L.	44.959215	14.406077	65	2017-06-20T22:31Z	20	6	2017
+1571160715	Plantae	Plantaginaceae	Plantago lanceolata L.	44.955051	14.413706		2017-06-20T14:06Z	20	6	2017
+1571160681	Plantae	Asteraceae	Cichorium intybus L.	44.954784	14.413718		2017-06-20T14:13Z	20	6	2017
+1571160640	Plantae	Fabaceae	Medicago sativa L.	44.954792	14.413755		2017-06-20T14:15Z	20	6	2017
+1571160574	Plantae	Convolvulaceae	Convolvulus arvensis L.	44.953158	14.414622	2299	2017-06-20T13:58Z	20	6	2017
+1571138449	Animalia	Salamandridae	Salamandra salamandra (Linnaeus, 1758)	43.907403	16.396831	65	2017-06-15T10:02Z	15	6	2017
+1562922818	Animalia	Colubridae	Elaphe quatuorlineata (Bonnaterre, 1790)	44.12372	14.981997	27364	2017-05-11T19:23Z	11	5	2017
+1562900639	Plantae	Lamiaceae	Melittis melissophyllum L.	45.395788	13.900775		2017-04-21T05:37Z	21	4	2017
+1500330218	Animalia	Proteidae	Proteus anguinus Laurenti, 1768	45.302732	13.697187	27174	2017-04-29T17:56Z	29	4	2017
+1500317075	Animalia	Colubridae	Natrix natrix (Linnaeus, 1758)	45.807104	16.087844	5	2017-04-26T15:09Z	26	4	2017
+1500280109	Animalia	Bombinatoridae	Bombina variegata (Linnaeus, 1758)	45.868396	16.025003	8256	2017-04-19T23:48Z	19	4	2017
+1500280030	Animalia	Ranidae	Pelophylax Fitzinger, 1843	45.621404	16.238915	16511	2017-04-12T15:27Z	12	4	2017
+1500280026	Animalia	Salamandridae	Lissotriton vulgaris (Linnaeus, 1758)	45.629611	16.229201	8256	2017-04-12T17:45Z	12	4	2017
+1500280017	Animalia	Ranidae	Rana dalmatina Fitzinger in Bonaparte, 1839	45.623957	16.21624	16511	2017-04-12T16:21Z	12	4	2017
+1457634574	Animalia	Salamandridae	Salamandra salamandra (Linnaeus, 1758)	44.814892	15.300438		2017-04-11T19:39Z	11	4	2017
+1453501741	Plantae	Primulaceae	Primula vulgaris Hill	44.855553	15.591245	11007	2017-03-10T10:49Z	10	3	2017
+1412766779	Animalia	Aporrhaidae	Aporrhais pespelecani (Linnaeus, 1758)	45.123962	13.614271		2017-06-15T02:00Z	15	6	2017
