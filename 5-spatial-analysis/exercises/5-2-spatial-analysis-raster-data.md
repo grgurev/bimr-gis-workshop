@@ -3,6 +3,7 @@
 #### Objective - Learn how to handle conduct basic raster analysis in QGIS
 Document version: 2017-09-20
 Document author: Marin Grgurev, PhD
+Exercise author: Ujaval Gandhi
 
 ---
 
