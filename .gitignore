@@ -3,3 +3,5 @@
 .~lock*
 5-spatial-analysis/exercises/data/cro-clc.*
 5-spatial-analysis/exercises/data/cro-dem500.*
+7-user-project/data/dem-region-srtm.tif
+7-user-project/data/srtm_bosnia.tif
