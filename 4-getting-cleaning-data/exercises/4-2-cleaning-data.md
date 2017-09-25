@@ -3,6 +3,7 @@
 #### Objective - Learn how to import data to QGIS and clean them for common mistakes
 Document version: 2017-09-19
 Document author: Marin Grgurev, PhD
+Task 1 exercise author: Ujaval Gandhi 
 
 ---
 
@@ -24,7 +25,7 @@ Objective: Learn how to import csv files into QGIS
 
 ---
 
-**Task 2: .**
+**Task 2: Cleaning table data.**
 Objective: Learn how to clean the data before importing them to QGIS
 
 **Steps to do:**

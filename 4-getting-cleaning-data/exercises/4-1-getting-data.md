@@ -1,5 +1,5 @@
 ## Data processing and handling techniques for the purposes of efficient biodiversity data management and reporting
-### Exercise 5 - Getting data (data acquisition)
+### Exercise 4.1 - Getting data (data acquisition)
 #### Objective - Obtain GIS and related data from various online sources
 Document version: 2017-09-14
 Document author: Petra Štrbenac; Marin Grgurev, PhD
@@ -29,7 +29,6 @@ Objective: Connect to WMS/WFS Web Service using QGIS.
 6. Drag and drop Biogeographical region layer to the Layer panel to display it on map.
 
 ---
-
 
 **Task 3: Use PESI EU Nomen Taxon Match Service.**
 Objective: Match and compare list of species with PESI EU Nomen Catalogue of species.
